@@ -1,4 +1,7 @@
+// Variable for the charts
 var medianBar;
+//var sqftChartdata;
+var nationalMedianHouseSize;
 
 // Event listener for getting state details
 d3.select('#get-states').on('click', function () {    
@@ -28,13 +31,13 @@ function fetchDataAndDisplay(endpoint, jsonElement) {
         d3.select(jsonElement).node().appendChild(stateDrpdwn.node());
         
         //Create Bar Chart using Chart.js
-        createChart(data);
+        createCharts(data);
         
         // Function updateChart is called when the selection in state dropdown is changed
-        d3.select("#states-list").on("change", updateChart);
+        d3.select("#states-list").on("change", updateCharts);
 
         // // Updates the chart based on the selected State
-        function updateChart()
+        function updateCharts()
         {
           let dropdownMenu = d3.select("select");
           // Assign the value of the dropdown menu option to a variable
@@ -48,6 +51,13 @@ function fetchDataAndDisplay(endpoint, jsonElement) {
            medianBar.data.datasets[0].data[1] = stateMedianIncome;
            medianBar.data.datasets[1].data[1] = stateMedianHousePrice;
            medianBar.update('none');
+
+           //Update Plotly chart
+           let stateMedianHouseSize = data["Median Home Size (in square feet)"][selectedStateIndex];
+           let newX = [nationalMedianHouseSize,stateMedianHouseSize];
+           let newY = ["National",selState,];
+           Plotly.restyle("sqftChart", "x", [newX]);
+           Plotly.restyle("sqftChart", "y", [newY]);              
         }
       })
       .catch(error => {
@@ -57,12 +67,12 @@ function fetchDataAndDisplay(endpoint, jsonElement) {
   
  
 // Initial creation of the Bar chart
-function createChart(fullData)
+function createCharts(fullData)
 {
    //Calculate the National Median of the 3 columns
-   let nationalMedianHousePrice = calculateMedian(fullData["Median Home Price"]);
-   //let nationalMedianHouseSize = calculateMedian(fullData["Median Home Size (in square feet)"]);
+   let nationalMedianHousePrice = calculateMedian(fullData["Median Home Price"]);   
    let nationalMedianHouseholdIncome = calculateMedian(fullData["Median Household Income"]);
+   nationalMedianHouseSize = calculateMedian(fullData["Median Home Size (in square feet)"]);
 
    // Get the details of the first state for initial values of the Bar Chart
    let selState = fullData.State[0]
@@ -95,6 +105,22 @@ function createChart(fullData)
        scales: { y: { beginAtZero: true } }
        }
    });
+   
+   // Plotly Chart to show Median House Size
+  let sqftChartdata = [{
+    type: 'bar',
+    x: houseSize,
+    y: xValues,
+    orientation: 'h',
+    marker: {
+      color: "lightblue",
+      width: 0.5
+    },
+    }];
+  let sqftChartLayout = {
+    title: "Median House Size (in square feet)"
+  }
+  Plotly.newPlot('sqftChart', sqftChartdata,sqftChartLayout);
 }
 
 // Calculate Median of the input  
