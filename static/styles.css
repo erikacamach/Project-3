@@ -1,0 +1,17 @@
+
+#states-json
+{
+    width:200;
+    height:200;
+};
+
+#charts_by_state
+{
+    width:500;
+    height:500;
+};
+
+#barChart{
+    width:300;
+    height:300;
+};

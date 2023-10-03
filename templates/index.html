@@ -12,12 +12,14 @@
 
   <!-- Link to the /api/v1.0/states_details endpoint -->
   <a href="#" id="get-states"><h4>2023 house price details by state </h4></a>
-  
-  <p><div id="states-json"></div></p>
-  <p><div id = "charts_by_state"> </p>
-    <canvas id="barChart" width =300, height = 300></canvas>
-  </div>
-  <p><div id = "sqftChart">   </div>
+ <!-- Div to include the dropdown box -->
+ <p> <p><div id="states-json">  </div>
+
+  <p><div id = "charts_by_state"> 
+        <canvas id="barChart"></canvas>
+         <!-- <canvas id="barChart" width= 200, height = 200></canvas>-->
+    </div>
+  <p><div id = "sqftChart">   </div> 
 
   <!-- Include d3.js -->
   <script src="https://d3js.org/d3.v7.min.js"></script>
@@ -25,9 +27,11 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
    <!-- Include Plotly.js -->
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-
-  
   <!-- Include the external JavaScript file -->
   <script src="./static/script.js"></script>
+      <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="static/styles.css">
+
+  
 </body>
 </html>
