@@ -3,7 +3,7 @@ from flask import Flask, jsonify, request
 from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///C:/Users/kevin/Documents/proj3/resources/project3.sqlite'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:Resources\project3.sqlite'
 db = SQLAlchemy(app)
 
 class HouseData(db.Model):
