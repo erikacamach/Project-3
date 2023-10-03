@@ -1,6 +1,5 @@
 // Variable for the charts
 var medianBar;
-//var sqftChartdata;
 var nationalMedianHouseSize;
 
 // Event listener for getting state details
@@ -78,13 +77,14 @@ function createCharts(fullData)
    let selState = fullData.State[0]
    let stateMedianIncome = fullData["Median Household Income"][0];
    let stateMedianHousePrice = fullData["Median Home Price"][0];
+   let stateMedianHouseSize = fullData["Median Home Size (in square feet)"][0];
    
 // Generate the Bar Chart        
    let barChartCanvas = document.getElementById('barChart');
    let xValues = ["National",selState,];
    let yIncome = [nationalMedianHouseholdIncome, stateMedianIncome];
    let yHousePrice = [nationalMedianHousePrice, stateMedianHousePrice];
-
+   let houseSize = [nationalMedianHouseSize, stateMedianHouseSize];
    medianBar =  new Chart(barChartCanvas, {
        type: 'bar',
        data: {
@@ -129,7 +129,7 @@ function calculateMedian(dataArray)
     if (Object.values(dataArray).length == 50)
     {
         let arrayForMedian = Object.values(dataArray);        
-        sortedArray = arrayForMedian.sort((num1,num2)=> num1-num2);    
+        let sortedArray = sortArray(arrayForMedian);
         nationalMedian = (sortedArray[24] + sortedArray[25])/2;
         return nationalMedian;   
     } 
@@ -139,4 +139,9 @@ function calculateMedian(dataArray)
     }
 }
 
- 
+// Sorts the array in ascending order     
+function sortArray(inputArray)
+{
+  let result = inputArray.sort((num1,num2)=> num1-num2);  
+  return result;
+}
