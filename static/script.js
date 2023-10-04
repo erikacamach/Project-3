@@ -2,9 +2,65 @@
 var medianBar;
 var nationalMedianHouseSize;
 
+d3.select('#overviewPage').on('click', function () {    
+  displayOverview('/api/v1.0/overview', '#overviewdiv');
+});
+
+function displayOverview(endpoint, jsonElement) {
+  d3.json(endpoint)
+    .then(function (data) {
+      
+//console.log(data)
+let states = Object.values(data.State);
+let medianHousePrice = Object.values(data["Median Home Price"]);
+let medianIncome = Object.values(data["Median Household Income"]);
+//console.log(medianHousePrice,medianIncome);
+ 
+let trace_HousePrice = {
+  x: states,
+  y: medianHousePrice,
+  type: 'bar',
+  name: 'Median House Price',
+  marker: {
+    color: "brown",
+    opacity: 0.5,
+  }
+};
+
+let trace_Income = {
+  x: states,
+  y: medianIncome,
+  type: 'bar',
+  name: 'Median Income',
+  marker: {
+    color: "green",
+    opacity: 0.5
+  }
+};
+
+let highestChartData = [trace_HousePrice, trace_Income];
+
+let highestChart_layout = {
+  title: '2023 Median House Price and Median Income',
+  xaxis: {
+    tickangle: -45
+  },
+  barmode: 'group'
+};
+
+Plotly.newPlot('OverviewChart', highestChartData, highestChart_layout);
+
+
+    });
+}
+
+
+
+//      ################################################              //
+
 // Event listener for getting state details
 d3.select('#get-states').on('click', function () {    
-    fetchDataAndDisplay('/api/v1.0/states_details', '#states-json');
+  fetchDataAndDisplay('/api/v1.0/states_details', '#states-json');
 });
 
 // Function to fetch and display JSON data from the API endpoints using d3.json
@@ -101,7 +157,8 @@ function createCharts(fullData)
        }]
        },
        options: {
-       animation:{duration :0,loop :false},
+        responsive: true,
+        maintainAspectRatio: false,
        scales: { y: { beginAtZero: true } }
        }
    });
@@ -114,11 +171,14 @@ function createCharts(fullData)
     orientation: 'h',
     marker: {
       color: "lightblue",
-      width: 0.5
+      width: 0.3
     },
     }];
   let sqftChartLayout = {
-    title: "Median House Size (in square feet)"
+    title: "Median House Size (in square feet)",
+    autosize: false,
+    width: 400,
+    height: 400,
   }
   Plotly.newPlot('sqftChart', sqftChartdata,sqftChartLayout);
 }
