@@ -1,928 +1,929 @@
-RegionName,StateName,2023
-"Vineyard Haven, MA",MA,2366667.0
-"Edwards, CO",CO,1978833.0
-"Hailey, ID",ID,1545000.0
-"Jackson, WY",WY,1496333.0
-"Santa Maria, CA",CA,1451750.0
-"San Jose, CA",CA,1399498.0
-"Glenwood Springs, CO",CO,1380833.0
-"Kapaa, HI",HI,1356500.0
-"Kahului, HI",HI,1323333.0
-"Napa, CA",CA,1303000.0
-"Steamboat Springs, CO",CO,1302500.0
-"Key West, FL",FL,1298333.0
-"Heber, UT",UT,1281333.0
-"Santa Cruz, CA",CA,1241333.0
-"Salinas, CA",CA,1161500.0
-"Breckenridge, CO",CO,1069000.0
-"San Francisco, CA",CA,1020833.0
-"Los Angeles, CA",CA,998967.0
-"San Luis Obispo, CA",CA,961666.0
-"San Diego, CA",CA,959667.0
-"Oxnard, CA",CA,949633.0
-"Bozeman, MT",MT,924667.0
-"Santa Rosa, CA",CA,910849.0
-"Boulder, CO",CO,868325.0
-"Gardnerville Ranchos, NV",NV,866721.0
-"Santa Fe, NM",NM,812483.0
-"Barnstable Town, MA",MA,799667.0
-"Fredericksburg, TX",TX,795333.0
-"Urban Honolulu, HI",HI,778333.0
-"Boston, MA",MA,768267.0
-"Durango, CO",CO,763317.0
-"Bend, OR",OR,762483.0
-"Hood River, OR",OR,760983.0
-"Naples, FL",FL,760263.0
-"Seattle, WA",WA,742650.0
-"Sandpoint, ID",ID,732333.0
-"Truckee, CA",CA,722317.0
-"Bridgeport, CT",CT,719967.0
-"Kalispell, MT",MT,714633.0
-"Ellensburg, WA",WA,710833.0
-"Flagstaff, AZ",AZ,703117.0
-"Ocean City, NJ",NJ,699933.0
-"Oak Harbor, WA",WA,695000.0
-"Montrose, CO",CO,689500.0
-"Kill Devil Hills, NC",NC,679633.0
-"Los Alamos, NM",NM,678333.0
-"New York, NY",NY,675997.0
-"Easton, MD",MD,665750.0
-"Crestview, FL",FL,655833.0
-"Coeur d'Alene, ID",ID,654117.0
-"Sevierville, TN",TN,646300.0
-"Bellingham, WA",WA,646167.0
-"St. George, UT",UT,643300.0
-"Reno, NV",NV,638333.0
-"Denver, CO",CO,634250.0
-"Missoula, MT",MT,629667.0
-"Sacramento, CA",CA,629633.0
-"Mount Vernon, WA",WA,614825.0
-"Hudson, NY",NY,614667.0
-"Wenatchee, WA",WA,611300.0
-"Vallejo, CA",CA,598815.0
-"Spearfish, SD",SD,598333.0
-"Fort Collins, CO",CO,597333.0
-"Portland, OR",OR,593333.0
-"Ukiah, CA",CA,591667.0
-"Bremerton, WA",WA,590333.0
-"Salt Lake City, UT",UT,589817.0
-"Prescott Valley, AZ",AZ,586667.0
-"Hilton Head Island, SC",SC,586333.0
-"Hilo, HI",HI,583833.0
-"Port Angeles, WA",WA,582325.0
-"Taos, NM",NM,581333.0
-"Astoria, OR",OR,581250.0
-"Portland, ME",ME,577750.0
-"Boise City, ID",ID,575217.0
-"Kerrville, TX",TX,573000.0
-"Newport, OR",OR,568125.0
-"Washington, DC",VA,564667.0
-"Riverside, CA",CA,564633.0
-"Provo, UT",UT,561650.0
-"Cullowhee, NC",NC,561217.0
-"Stockton, CA",CA,559823.0
-"Corvallis, OR",OR,559150.0
-"Miami, FL",FL,550000.0
-"Prineville, OR",OR,546217.0
-"Austin, TX",TX,546000.0
-"Sheridan, WY",WY,545333.0
-"Helena, MT",MT,539667.0
-"Brookings, OR",OR,538800.0
-"Morehead City, NC",NC,537450.0
-"Olympia, WA",WA,532733.0
-"Nashville, TN",TN,531333.0
-"North Port, FL",FL,531333.0
-"Rexburg, ID",ID,529667.0
-"Ogden, UT",UT,528300.0
-"Greeley, CO",CO,521633.0
-"Bennington, VT",VT,517167.0
-"Walla Walla, WA",WA,516333.0
-"Laconia, NH",NH,516150.0
-"Medford, OR",OR,511333.0
-"Carson City, NV",NV,506875.0
-"Phoenix, AZ",AZ,504633.0
-"Colorado Springs, CO",CO,501785.0
-"Stephenville, TX",TX,499648.0
-"Kingston, NY",NY,499600.0
-"Charleston, SC",SC,498423.0
-"Modesto, CA",CA,494833.0
-"Madera, CA",CA,494133.0
-"Wilmington, NC",NC,494000.0
-"Juneau, AK",AK,490317.0
-"Shelton, WA",WA,489650.0
-"Moscow, ID",ID,489150.0
-"Payson, AZ",AZ,485167.0
-"Brevard, NC",NC,485000.0
-"Sonora, CA",CA,484600.0
-"Providence, RI",RI,484117.0
-"Eureka, CA",CA,479000.0
-"Salem, OR",OR,478233.0
-"Eugene, OR",OR,476300.0
-"Grants Pass, OR",OR,475000.0
-"Daphne, AL",AL,473000.0
-"Kennewick, WA",WA,472667.0
-"Centralia, WA",WA,472583.0
-"Salisbury, MD",DE,471600.0
-"Spirit Lake, IA",IA,470300.0
-"Logan, UT",UT,468200.0
-"Spokane, WA",WA,467992.0
-"Charlottesville, VA",VA,466667.0
-"Brenham, TX",TX,466167.0
-"Torrington, CT",CT,463800.0
-"Gainesville, TX",TX,462467.0
-"Manchester, NH",NH,461667.0
-"Yuba City, CA",CA,459233.0
-"Raleigh, NC",NC,457007.0
-"Grand Junction, CO",CO,455000.0
-"Traverse City, MI",MI,454667.0
-"Billings, MT",MT,453633.0
-"Burlington, VT",VT,453000.0
-"Las Vegas, NV",NV,450000.0
-"Worcester, MA",MA,449950.0
-"Crescent City, CA",CA,449117.0
-"Pittsfield, MA",MA,449000.0
-"Show Low, AZ",AZ,446633.0
-"Asheville, NC",NC,446333.0
-"Ruidoso, NM",NM,444750.0
-"Dallas, TX",TX,440000.0
-"Concord, NH",NH,439633.0
-"Poughkeepsie, NY",NY,439333.0
-"Boone, NC",NC,438950.0
-"Barre, VT",VT,437833.0
-"Idaho Falls, ID",ID,437083.0
-"Merced, CA",CA,436498.0
-"Orlando, FL",FL,436167.0
-"Port St. Lucie, FL",FL,435583.0
-"Pullman, WA",WA,435467.0
-"Pinehurst, NC",NC,434633.0
-"Blackfoot, ID",ID,434000.0
-"Fresno, CA",CA,433333.0
-"Durham, NC",NC,433333.0
-"Ann Arbor, MI",MI,433333.0
-"Lebanon, NH",NH,432633.0
-"Granbury, TX",TX,431300.0
-"Panama City, FL",FL,430933.0
-"Gainesville, GA",GA,429950.0
-"Redding, CA",CA,429450.0
-"Fernley, NV",NV,428167.0
-"Mineral Wells, TX",TX,422499.0
-"Albany, OR",OR,421667.0
-"California, MD",MD,421667.0
-"Ca-¦on City, CO",CO,421167.0
-"Jefferson, GA",GA,419650.0
-"Longview, WA",WA,416667.0
-"Chico, CA",CA,416600.0
-"Keene, NH",NH,416333.0
-"Fayetteville, AR",AR,415000.0
-"Tampa, FL",FL,414967.0
-"Sebastian, FL",FL,413750.0
-"Twin Falls, ID",ID,409983.0
-"Laramie, WY",WY,409750.0
-"Espa-¦ola, NM",NM,408617.0
-"Lewiston, ID",ID,408333.0
-"Shelbyville, TN",TN,408297.0
-"Fallon, NV",NV,408167.0
-"Moses Lake, WA",WA,407967.0
-"Rapid City, SD",SD,406600.0
-"Cheyenne, WY",WY,406333.0
-"Ketchikan, AK",AK,405833.0
-"Knoxville, TN",TN,405000.0
-"Madison, WI",WI,405000.0
-"Whitewater, WI",WI,403933.0
-"Yakima, WA",WA,403000.0
-"Cedar City, UT",UT,401533.0
-"Charlotte, NC",NC,399967.0
-"Jacksonville, FL",FL,399956.0
-"The Villages, FL",FL,399900.0
-"Anchorage, AK",AK,399000.0
-United States,,397833.0
-"Clearlake, CA",CA,397667.0
-"Ontario, OR",OR,396333.0
-"Tullahoma, TN",TN,394667.0
-"Atlanta, GA",GA,394633.0
-"Minneapolis, MN",MN,394600.0
-"Morristown, TN",TN,392750.0
-"Deltona, FL",FL,392333.0
-"Aberdeen, WA",WA,390967.0
-"Winchester, VA",VA,390667.0
-"Albuquerque, NM",NM,389933.0
-"Riverton, WY",WY,389000.0
-"Visalia, CA",CA,388000.0
-"Pocatello, ID",ID,387183.0
-"Tucson, AZ",AZ,386666.0
-"Trenton, NJ",NJ,386300.0
-"Athens, TX",TX,385800.0
-"Rockport, TX",TX,385217.0
-"The Dalles, OR",OR,384633.0
-"Lewisburg, TN",TN,383617.0
-"Savannah, GA",GA,383150.0
-"Chattanooga, TN",TN,382000.0
-"Brainerd, MN",MN,381600.0
-"Auburn, AL",AL,381500.0
-"Athens, GA",GA,379900.0
-"Brunswick, GA",GA,379900.0
-"Red Bluff, CA",CA,379800.0
-"Midland, TX",TX,379667.0
-"Burley, ID",ID,377167.0
-"Fort Morgan, CO",CO,377000.0
-"Coos Bay, OR",OR,376667.0
-"State College, PA",PA,375117.0
-"Hanford, CA",CA,374967.0
-"Bonham, TX",TX,374667.0
-"Bakersfield, CA",CA,374633.0
-"Alexandria, MN",MN,374100.0
-"Milledgeville, GA",GA,373467.0
-"Palm Bay, FL",FL,373333.0
-"Tyler, TX",TX,373172.0
-"Roseburg, OR",OR,371167.0
-"Vernal, UT",UT,368000.0
-"Georgetown, SC",SC,367662.0
-"Norwich, CT",CT,367600.0
-"Gillette, WY",WY,367000.0
-"College Station, TX",TX,366807.0
-"Fergus Falls, MN",MN,366650.0
-"Houston, TX",TX,366000.0
-"Sherman, TX",TX,365248.0
-"Atlantic City, NJ",NJ,364800.0
-"Augusta, ME",ME,363300.0
-"Mount Pleasant, TX",TX,361600.0
-"Huntsville, AL",AL,361567.0
-"Richmond, VA",VA,361317.0
-"Arcadia, FL",FL,360967.0
-"Nogales, AZ",AZ,360833.0
-"Pensacola, FL",FL,360650.0
-"Watertown, SD",SD,360617.0
-"Seneca, SC",SC,359983.0
-"Holland, MI",MI,359933.0
-"Oxford, MS",MS,359798.0
-"Niles, MI",MI,359750.0
-"Craig, CO",CO,359100.0
-"Huntsville, TX",TX,358668.0
-"Alexander City, AL",AL,358667.0
-"Pahrump, NV",NV,358667.0
-"Dayton, TN",TN,358133.0
-"Lexington, KY",KY,358050.0
-"Rutland, VT",VT,357300.0
-"Green Bay, WI",WI,354633.0
-"Lawrence, KS",KS,354317.0
-"Uvalde, TX",TX,353333.0
-"Elko, NV",NV,352833.0
-"San Antonio, TX",TX,352667.0
-"Cookeville, TN",TN,352467.0
-"Mountain Home, ID",ID,352367.0
-"Evanston, WY",WY,352283.0
-"Othello, WA",WA,352000.0
-"Las Cruces, NM",NM,351600.0
-"Bismarck, ND",ND,351583.0
-"Baltimore, MD",MD,349998.0
-"Virginia Beach, VA",VA,349933.0
-"Lakeland, FL",FL,349933.0
-"Sioux Falls, SD",SD,349933.0
-"New Haven, CT",CT,349900.0
-"Pueblo, CO",CO,349600.0
-"Bloomington, IN",IN,349050.0
-"Cornelia, GA",GA,348966.0
-"Harrisonburg, VA",VA,348933.0
-"Cleveland, TN",TN,348233.0
-"East Stroudsburg, PA",PA,347950.0
-"Faribault, MN",MN,347317.0
-"Johnson City, TN",TN,347131.0
-"Klamath Falls, OR",OR,346617.0
-"Watertown, WI",WI,346600.0
-"Dover, DE",DE,346483.0
-"Hartford, CT",CT,346267.0
-"Crossville, TN",TN,346267.0
-"Gainesville, FL",FL,346000.0
-"Greenville, SC",SC,345933.0
-"Grand Rapids, MI",MI,345900.0
-"Springfield, MA",MA,344933.0
-"Rochester, MN",MN,344917.0
-"Hermiston, OR",OR,343108.0
-"Columbus, OH",OH,341533.0
-"Winnemucca, NV",NV,340650.0
-"Chicago, IL",IL,339967.0
-"Brookings, SD",SD,339950.0
-"Punta Gorda, FL",FL,339900.0
-"Myrtle Beach, SC",SC,339612.0
-"Sanford, NC",NC,338442.0
-"Newport, TN",TN,337117.0
-"El Centro, CA",CA,336667.0
-"Washington, NC",NC,334650.0
-"Gettysburg, PA",PA,334000.0
-"Jacksonville, TX",TX,333400.0
-"Allentown, PA",PA,333317.0
-"Corpus Christi, TX",TX,332633.0
-"Thomasville, GA",GA,329967.0
-"Lancaster, PA",PA,329133.0
-"Ithaca, NY",NY,328817.0
-"Roanoke, VA",VA,328317.0
-"Las Vegas, NM",NM,326500.0
-"Lewiston, ME",ME,324933.0
-"Burlington, NC",NC,324827.0
-"Casper, WY",WY,324667.0
-"La Grande, OR",OR,324500.0
-"Columbia, MO",MO,323467.0
-"Clarksville, TN",TN,323333.0
-"Tallahassee, FL",FL,323300.0
-"Fargo, ND",ND,321892.0
-"Great Falls, MT",MT,321667.0
-"Philadelphia, PA",PA,321633.0
-"Cape Coral, FL",FL,321300.0
-"Yuma, AZ",AZ,321283.0
-"Bowling Green, KY",KY,319933.0
-"Tulsa, OK",OK,319900.0
-"Appleton, WI",WI,319900.0
-"Starkville, MS",MS,319800.0
-"Ocala, FL",FL,319633.0
-"Mankato, MN",MN,319000.0
-"Killeen, TX",TX,318719.0
-"Columbus, NE",NE,318633.0
-"Albany, NY",NY,318300.0
-"Angola, IN",IN,318233.0
-"Forest City, NC",NC,317667.0
-"Staunton, VA",VA,317467.0
-"Red Wing, MN",MN,317300.0
-"Susanville, CA",CA,316633.0
-"Wauchula, FL",FL,316633.0
-"Lincoln, NE",NE,316300.0
-"Des Moines, IA",IA,316000.0
-"Blacksburg, VA",VA,314117.0
-"New Orleans, LA",LA,313333.0
-"Lynchburg, VA",VA,313100.0
-"New Bern, NC",NC,313000.0
-"Durant, OK",OK,312042.0
-"Fairbanks, AK",AK,311742.0
-"Farmington, NM",NM,311483.0
-"Oklahoma City, OK",OK,310997.0
-"Brownsville, TX",TX,310556.0
-"McMinnville, TN",TN,310233.0
-"Omaha, NE",NE,309983.0
-"Bemidji, MN",MN,309983.0
-"Kansas City, MO",MO,309967.0
-"Warsaw, IN",IN,309967.0
-"Williston, ND",ND,309633.0
-"Lawrenceburg, TN",TN,309300.0
-"Fort Payne, AL",AL,308750.0
-"Homosassa Springs, FL",FL,308667.0
-"Baraboo, WI",WI,308133.0
-"Mount Vernon, OH",OH,308116.0
-"Albemarle, NC",NC,308000.0
-"Hot Springs, AR",AR,307850.0
-"Greenwood, SC",SC,307700.0
-"Iowa City, IA",IA,307650.0
-"Statesboro, GA",GA,307000.0
-"Albertville, AL",AL,306950.0
-"Spartanburg, SC",SC,306533.0
-"St. Marys, GA",GA,306383.0
-"Lake City, FL",FL,305300.0
-"Pierre, SD",SD,304667.0
-"Winston, NC",NC,303650.0
-"Newberry, SC",SC,303583.0
-"St. Cloud, MN",MN,303217.0
-"Athens, TN",TN,302893.0
-"Greensboro, NC",NC,302816.0
-"Moultrie, GA",GA,302300.0
-"Columbus, IN",IN,301600.0
-"Milwaukee, WI",WI,299967.0
-"Waco, TX",TX,299900.0
-"Jacksonville, NC",NC,299900.0
-"Lake Havasu City, AZ",AZ,299780.0
-"Indianapolis, IN",IN,299667.0
-"Hagerstown, MD",MD,299600.0
-"Springfield, MO",MO,298633.0
-"Glens Falls, NY",NY,298333.0
-"Murray, KY",KY,298300.0
-"Elizabeth City, NC",NC,297933.0
-"Butte, MT",MT,297500.0
-"Silver City, NM",NM,297333.0
-"Greeneville, TN",TN,297117.0
-"Cincinnati, OH",OH,297000.0
-"Yankton, SD",SD,295783.0
-"Kendallville, IN",IN,295750.0
-"Elizabethtown, KY",KY,295217.0
-"Mitchell, SD",SD,294917.0
-"Sierra Vista, AZ",AZ,294133.0
-"Beaver Dam, WI",WI,292950.0
-"Bay City, TX",TX,292871.0
-"Warrensburg, MO",MO,292150.0
-"Ludington, MI",MI,292100.0
-"Chambersburg, PA",PA,291600.0
-"Harrison, AR",AR,291267.0
-"Price, UT",UT,290833.0
-"Willmar, MN",MN,290800.0
-"Dalton, GA",GA,290600.0
-"Decatur, AL",AL,290359.0
-"Cullman, AL",AL,290026.0
-"Safford, AZ",AZ,290000.0
-"El Paso, TX",TX,289950.0
-"Bardstown, KY",KY,289950.0
-"La Crosse, WI",WI,289933.0
-"Columbia, SC",SC,288033.0
-"Richmond, KY",KY,288033.0
-"Morgantown, WV",WV,287667.0
-"Lewisburg, PA",PA,287447.0
-"Longview, TX",TX,286833.0
-"Carlsbad, NM",NM,286833.0
-"Henderson, NC",NC,286133.0
-"Baton Rouge, LA",LA,285450.0
-"Sulphur Springs, TX",TX,285417.0
-"San Angelo, TX",TX,285333.0
-"Lebanon, PA",PA,285300.0
-"Corsicana, TX",TX,285000.0
-"Birmingham, AL",AL,284617.0
-"Jefferson City, MO",MO,284617.0
-"Grand Island, NE",NE,283967.0
-"Branson, MO",MO,283783.0
-"Kearney, NE",NE,283167.0
-"Ames, IA",IA,283133.0
-"Pella, IA",IA,282650.0
-"Abilene, TX",TX,282583.0
-"Ruston, LA",LA,282500.0
-"Natchitoches, LA",LA,282333.0
-"Owatonna, MN",MN,282200.0
-"Bangor, ME",ME,281000.0
-"Kalamazoo, MI",MI,280467.0
-"Cordele, GA",GA,280333.0
-"Louisville, KY",KY,279833.0
-"Kingsport, TN",TN,279633.0
-"Dubuque, IA",IA,278967.0
-"Plymouth, IN",IN,278833.0
-"Calhoun, GA",GA,278086.0
-"Lafayette, IN",IN,277967.0
-"Rock Springs, WY",WY,277500.0
-"Alamogordo, NM",NM,277167.0
-"Grand Rapids, MN",MN,277033.0
-"Winona, MN",MN,276517.0
-"Duluth, MN",MN,276267.0
-"Augusta, GA",GA,276250.0
-"Palatka, FL",FL,275617.0
-"Stillwater, OK",OK,275523.0
-"Bainbridge, GA",GA,274967.0
-"Fremont, NE",NE,274917.0
-"Dublin, GA",GA,274633.0
-"Paris, TN",TN,274617.0
-"Stevens Point, WI",WI,274200.0
-"Jackson, TN",TN,274000.0
-"Memphis, TN",TN,273267.0
-"Lebanon, MO",MO,273267.0
-"Sandusky, OH",OH,273133.0
-"Douglas, GA",GA,272950.0
-"Greenville, NC",NC,272650.0
-"Fond du Lac, WI",WI,271600.0
-"Paris, TX",TX,271583.0
-"York, PA",PA,271567.0
-"Palestine, TX",TX,271333.0
-"Nacogdoches, TX",TX,271283.0
-"Hinesville, GA",GA,271050.0
-"Worthington, MN",MN,270017.0
-"Reading, PA",PA,269967.0
-"Fort Wayne, IN",IN,269933.0
-"Toccoa, GA",GA,269833.0
-"North Wilkesboro, NC",NC,269300.0
-"Sterling, CO",CO,269083.0
-"Racine, WI",WI,268267.0
-"Hutchinson, MN",MN,268267.0
-"Tuscaloosa, AL",AL,268250.0
-"Warner Robins, GA",GA,268083.0
-"Dodge City, KS",KS,267983.0
-"Andrews, TX",TX,267367.0
-"Berlin, NH",NH,266483.0
-"Hickory, NC",NC,266267.0
-"Elkins, WV",WV,266167.0
-"Victoria, TX",TX,266039.0
-"Frankfort, KY",KY,265817.0
-"Fayetteville, NC",NC,265416.0
-"Rome, GA",GA,264966.0
-"Florence, AL",AL,264900.0
-"Janesville, WI",WI,264600.0
-"Amarillo, TX",TX,264133.0
-"Midland, MI",MI,263967.0
-"Jesup, GA",GA,263933.0
-"Monroe, MI",MI,263417.0
-"Cedartown, GA",GA,263283.0
-"Sioux City, IA",IA,263000.0
-"Somerset, KY",KY,262950.0
-"Menomonie, WI",WI,262633.0
-"Campbellsville, KY",KY,262600.0
-"Wausau, WI",WI,262297.0
-"Dickinson, ND",ND,262150.0
-"Sheboygan, WI",WI,261933.0
-"Oshkosh, WI",WI,261600.0
-"Vidalia, GA",GA,260817.0
-"Wooster, OH",OH,260667.0
-"Michigan City, IN",IN,260667.0
-"Cambridge, MD",MD,259945.0
-"Martin, TN",TN,258617.0
-"Harrisburg, PA",PA,258083.0
-"Lufkin, TX",TX,258083.0
-"Hammond, LA",LA,258033.0
-"Del Rio, TX",TX,257817.0
-"Coldwater, MI",MI,257067.0
-"Sumter, SC",SC,256667.0
-"Scottsboro, AL",AL,256608.0
-"Grand Forks, ND",MN,256600.0
-"Valdosta, GA",GA,256567.0
-"Tifton, GA",GA,256133.0
-"Elkhart, IN",IN,254833.0
-"Jonesboro, AR",AR,254133.0
-"Eagle Pass, TX",TX,254133.0
-"Lubbock, TX",TX,253992.0
-"El Campo, TX",TX,253500.0
-"Rolla, MO",MO,253450.0
-"Little Rock, AR",AR,253300.0
-"Marquette, MI",MI,252967.0
-"Jasper, AL",AL,252750.0
-"Brownwood, TX",TX,252732.0
-"Odessa, TX",TX,252697.0
-"Topeka, KS",KS,251600.0
-"Okeechobee, FL",FL,251600.0
-"Sebring, FL",FL,250597.0
-"Shawano, WI",WI,250567.0
-"Wichita, KS",KS,249967.0
-"Hattiesburg, MS",MS,249667.0
-"Oneonta, NY",NY,249667.0
-"McAllen, TX",TX,249383.0
-"Manhattan, KS",KS,249317.0
-"Danville, KY",KY,249300.0
-"Gallup, NM",NM,248500.0
-"Picayune, MS",MS,248483.0
-"Tahlequah, OK",OK,248400.0
-"Lafayette, LA",LA,248300.0
-"Fort Smith, AR",AR,248133.0
-"Findlay, OH",OH,248100.0
-"Shawnee, OK",OK,247983.0
-"Plattsburgh, NY",NY,247967.0
-"Big Rapids, MI",MI,247467.0
-"Chillicothe, OH",OH,247433.0
-"Ada, OK",OK,245667.0
-"Sedalia, MO",MO,245267.0
-"LaGrange, GA",GA,244950.0
-"Norfolk, NE",NE,244942.0
-"Buffalo, NY",NY,244883.0
-"Ashland, OH",OH,244767.0
-"Marion, NC",NC,244617.0
-"Mountain Home, AR",AR,244600.0
-"Mount Airy, NC",NC,244483.0
-"Goldsboro, NC",NC,244450.0
-"West Plains, MO",MO,244150.0
-"Gulfport, MS",MS,244050.0
-"Detroit, MI",MI,243817.0
-"Greensburg, IN",IN,243650.0
-"Laredo, TX",TX,243467.0
-"Joplin, MO",MO,243300.0
-"Adrian, MI",MI,243267.0
-"Gaffney, SC",SC,243242.0
-"Bloomington, IL",IL,243133.0
-"Ardmore, OK",OK,242483.0
-"Eufaula, AL",AL,241667.0
-"Florence, SC",SC,241300.0
-"Sidney, OH",OH,240967.0
-"Aberdeen, SD",SD,240900.0
-"Texarkana, TX",TX,240833.0
-"North Platte, NE",NE,240817.0
-"Garden City, KS",KS,239983.0
-"Scottsbluff, NE",NE,239817.0
-"Maysville, KY",KY,239617.0
-"Vermillion, SD",SD,239500.0
-"Clovis, NM",NM,239300.0
-"Enterprise, AL",AL,238717.0
-"Bellefontaine, OH",OH,238450.0
-"Mobile, AL",AL,238267.0
-"Wilson, NC",NC,238267.0
-"Miami, OK",OK,238133.0
-"Columbus, MS",MS,238083.0
-"Glasgow, KY",KY,238083.0
-"Coshocton, OH",OH,238000.0
-"Evansville, IN",IN,237233.0
-"Marietta, OH",OH,236633.0
-"Shelby, NC",NC,236533.0
-"Owensboro, KY",KY,235750.0
-"Kingsville, TX",TX,235650.0
-"Urbana, OH",OH,235583.0
-"Vineland, NJ",NJ,235333.0
-"Roswell, NM",NM,234983.0
-"Williamsport, PA",PA,234933.0
-"Hillsdale, MI",MI,234833.0
-"Madison, IN",IN,234650.0
-"Hastings, NE",NE,234633.0
-"Cadillac, MI",MI,234567.0
-"Lexington, NE",NE,234500.0
-"Point Pleasant, WV",OH,233883.0
-"Storm Lake, IA",IA,233300.0
-"Grants, NM",NM,233200.0
-"Muskegon, MI",MI,233150.0
-"Sturgis, MI",MI,232929.0
-"McAlester, OK",OK,232483.0
-"Minot, ND",ND,232467.0
-"Scranton, PA",PA,231333.0
-"Ottawa, KS",KS,231300.0
-"New Ulm, MN",MN,231017.0
-"Orangeburg, SC",SC,230467.0
-"Houma, LA",LA,229967.0
-"Crawfordsville, IN",IN,229633.0
-"Levelland, TX",TX,229600.0
-"Jasper, IN",IN,229217.0
-"Seneca Falls, NY",NY,228867.0
-"Washington, IN",IN,228550.0
-"Eau Claire, WI",WI,228267.0
-"Columbus, GA",GA,228167.0
-"Gadsden, AL",AL,228133.0
-"Syracuse, NY",NY,227950.0
-"Americus, GA",GA,227667.0
-"Kinston, NC",NC,227650.0
-"Frankfort, IN",IN,227500.0
-"Monroe, LA",LA,227333.0
-"Russellville, AR",AR,227000.0
-"Bloomsburg, PA",PA,226600.0
-"Zanesville, OH",OH,226417.0
-"Champaign, IL",IL,226217.0
-"Lake Charles, LA",LA,226000.0
-"Auburn, IN",IN,225761.0
-"Brownsville, TN",TN,225633.0
-"St. Louis, MO",MO,224967.0
-"Pittsburgh, PA",PA,224967.0
-"South Bend, IN",IN,224900.0
-"Wichita Falls, TX",TX,224867.0
-"Gloversville, NY",NY,223933.0
-"Jackson, OH",OH,223800.0
-"Fort Leonard Wood, MO",MO,223333.0
-"Rocky Mount, NC",NC,223133.0
-"Wapakoneta, OH",OH,223133.0
-"Searcy, AR",AR,222833.0
-"Austin, MN",MN,222483.0
-"Portales, NM",NM,222483.0
-"Jackson, MI",MI,222300.0
-"Paducah, KY",KY,221942.0
-"Wilmington, OH",OH,221633.0
-"Waycross, GA",GA,221600.0
-"Montgomery, AL",AL,221567.0
-"Hays, KS",KS,221333.0
-"Pecos, TX",TX,221333.0
-"Cleveland, OH",OH,221233.0
-"Jackson, MS",MS,221150.0
-"Rio Grande City, TX",TX,220467.0
-"Celina, OH",OH,220467.0
-"Shreveport, LA",LA,220150.0
-"New Philadelphia, OH",OH,219900.0
-"Malone, NY",NY,219817.0
-"London, KY",KY,219650.0
-"Port Lavaca, TX",TX,219633.0
-"Selinsgrove, PA",PA,219473.0
-"Fort Polk South, LA",LA,219000.0
-"Magnolia, AR",AR,218833.0
-"Dayton, OH",OH,218467.0
-"Alice, TX",TX,218333.0
-"Cape Girardeau, MO",MO,218283.0
-"Lansing, MI",MI,217750.0
-"Raymondville, TX",TX,216667.0
-"Tupelo, MS",MS,216417.0
-"Cedar Rapids, IA",IA,216300.0
-"Auburn, NY",NY,216133.0
-"Bedford, IN",IN,216100.0
-"Liberal, KS",KS,215667.0
-"Bartlesville, OK",OK,215000.0
-"Seymour, IN",IN,214933.0
-"Thomaston, GA",GA,214867.0
-"Beaumont, TX",TX,214583.0
-"Paragould, AR",AR,214583.0
-"Mason City, IA",IA,214317.0
-"Summerville, GA",GA,214150.0
-"Marinette, WI",WI,214117.0
-"Huntingdon, PA",PA,214100.0
-"Platteville, WI",WI,213867.0
-"Escanaba, MI",MI,213283.0
-"Watertown, NY",NY,213150.0
-"Natchez, MS",LA,212900.0
-"Bluffton, IN",IN,211567.0
-"Huron, SD",SD,211250.0
-"Rochester, NY",NY,211233.0
-"Troy, AL",AL,211100.0
-"Malvern, AR",AR,210800.0
-"Alexandria, LA",LA,210250.0
-"Washington Court House, OH",OH,210100.0
-"Akron, OH",OH,210000.0
-"Dothan, AL",AL,209967.0
-"Scottsburg, IN",IN,209800.0
-"Emporia, KS",KS,209750.0
-"Cortland, NY",NY,208967.0
-"Amsterdam, NY",NY,208667.0
-"Beeville, TX",TX,207983.0
-"Anniston, AL",AL,207820.0
-"Farmington, MO",MO,207417.0
-"Meridian, MS",MS,207133.0
-"Wisconsin Rapids, WI",WI,207083.0
-"Manitowoc, WI",WI,206633.0
-"Mayfield, KY",KY,206483.0
-"Toledo, OH",OH,204917.0
-"Alpena, MI",MI,204633.0
-"Effingham, IL",IL,204450.0
-"North Vernon, IN",IN,203950.0
-"Corinth, MS",MS,203300.0
-"Talladega, AL",AL,202918.0
-"Albert Lea, MN",MN,201667.0
-"Waterloo, IA",IA,201567.0
-"Batavia, NY",NY,201433.0
-"Sault Ste. Marie, MI",MI,201317.0
-"Lewistown, PA",PA,199967.0
-"McPherson, KS",KS,199933.0
-"Utica, NY",NY,199900.0
-"Dyersburg, TN",TN,199783.0
-"Maryville, MO",MO,199600.0
-"Hobbs, NM",NM,199483.0
-"Guymon, OK",OK,199417.0
-"Deming, NM",NM,198967.0
-"Brookhaven, MS",MS,198833.0
-"Madisonville, KY",KY,198683.0
-"Danville, VA",VA,198483.0
-"Albany, GA",GA,197950.0
-"Bogalusa, LA",LA,197902.0
-"Defiance, OH",OH,197467.0
-"Marshall, MN",MN,197083.0
-"Rochelle, IL",IL,196633.0
-"Pearsall, TX",TX,196617.0
-"Canton, OH",OH,196600.0
-"Erie, PA",PA,196567.0
-"Fairmont, MN",MN,196533.0
-"Kankakee, IL",IL,196467.0
-"Laurel, MS",MS,195750.0
-"Weatherford, OK",OK,194933.0
-"Cleveland, MS",MS,194700.0
-"DeRidder, LA",LA,194650.0
-"Parkersburg, WV",WV,194383.0
-"Mount Sterling, KY",KY,194333.0
-"Enid, OK",OK,193917.0
-"Ozark, AL",AL,193317.0
-"Mount Pleasant, MI",MI,193267.0
-"Spencer, IA",IA,192950.0
-"Somerset, PA",PA,192167.0
-"Decatur, IN",IN,192133.0
-"Morgan City, LA",LA,192050.0
-"Duncan, OK",OK,191800.0
-"Muskogee, OK",OK,191660.0
-"Jamestown, ND",ND,191300.0
-"Lumberton, NC",NC,191117.0
-"Rockford, IL",IL,191000.0
-"Big Spring, TX",TX,190958.0
-"Athens, OH",OH,190633.0
-"Wahpeton, ND",ND,189950.0
-"Lima, OH",OH,189767.0
-"Springfield, OH",OH,189667.0
-"Altus, OK",OK,189583.0
-"Muscatine, IA",IA,189433.0
-"Cumberland, MD",MD,189383.0
-"Sayre, PA",PA,189083.0
-"Battle Creek, MI",MI,188650.0
-"Fremont, OH",OH,188467.0
-"Carroll, IA",IA,188467.0
-"Union City, TN",TN,187950.0
-"Fairmont, WV",WV,187883.0
-"Beckley, WV",WV,187667.0
-"Arkadelphia, AR",AR,186833.0
-"Jennings, LA",LA,186783.0
-"Atmore, AL",AL,186633.0
-"Beatrice, NE",NE,185967.0
-"Meadville, PA",PA,185633.0
-"Greenville, OH",OH,185483.0
-"Dixon, IL",IL,185433.0
-"Opelousas, LA",LA,185167.0
-"Ashtabula, OH",OH,184946.0
-"Flint, MI",MI,183600.0
-"Marshall, MO",MO,182317.0
-"Davenport, IA",IL,181967.0
-"Huntington, IN",IN,181567.0
-"Jamestown, NY",NY,180850.0
-"St. Joseph, MO",MO,180833.0
-"Alma, MI",MI,180300.0
-"Plainview, TX",TX,180047.0
-"Kirksville, MO",MO,179900.0
-"Norwalk, OH",OH,179817.0
-"Iron Mountain, MI",MI,179750.0
-"Van Wert, OH",OH,179533.0
-"Martinsville, VA",VA,179467.0
-"Corning, NY",NY,178850.0
-"Huntington, WV",OH,178717.0
-"Fairfield, IA",IA,177383.0
-"McComb, MS",MS,176667.0
-"Poplar Bluff, MO",MO,176617.0
-"Tiffin, OH",OH,176467.0
-"Central City, KY",KY,176317.0
-"Elk City, OK",OK,176300.0
-"Houghton, MI",MI,176233.0
-"Binghamton, NY",NY,176117.0
-"Lock Haven, PA",PA,175966.0
-"Lamesa, TX",TX,175667.0
-"Cambridge, OH",OH,175483.0
-"Hannibal, MO",MO,174983.0
-"Batesville, AR",AR,174583.0
-"Salina, KS",KS,174417.0
-"Lawton, OK",OK,173133.0
-"Wabash, IN",IN,173083.0
-"Connersville, IN",IN,172417.0
-"Laurinburg, NC",NC,172300.0
-"Vicksburg, MS",MS,171900.0
-"Bay City, MI",MI,171600.0
-"New Castle, IN",IN,171533.0
-"Altoona, PA",PA,170250.0
-"Oskaloosa, IA",IA,169800.0
-"Moberly, MO",MO,169650.0
-"Clarksburg, WV",WV,169450.0
-"Quincy, IL",IL,169383.0
-"Kokomo, IN",IN,168250.0
-"Mansfield, OH",OH,167917.0
-"Ogdensburg, NY",NY,167667.0
-"Terre Haute, IN",IN,167633.0
-"Ottawa, IL",IL,167617.0
-"El Dorado, AR",AR,167283.0
-"Dumas, TX",TX,166617.0
-"Rockingham, NC",NC,165967.0
-"Camden, AR",AR,165133.0
-"Marion, OH",OH,164950.0
-"Logansport, IN",IN,164950.0
-"Clinton, IA",IA,164617.0
-"Charleston, WV",WV,164483.0
-"Fort Dodge, IA",IA,164267.0
-"Springfield, IL",IL,163117.0
-"Minden, LA",LA,161283.0
-"Vincennes, IN",IN,160450.0
-"Salem, OH",OH,160333.0
-"Youngstown, OH",OH,159950.0
-"Marshalltown, IA",IA,159950.0
-"Wheeling, WV",OH,159300.0
-"Indiana, PA",PA,158367.0
-"Bluefield, WV",VA,157567.0
-"Ponca City, OK",OK,157167.0
-"Fitzgerald, GA",GA,156800.0
-"Portsmouth, OH",OH,156633.0
-"West Point, MS",MS,156617.0
-"Pittsburg, KS",KS,156583.0
-"Ottumwa, IA",IA,156450.0
-"Atchison, KS",KS,156450.0
-"Union, SC",SC,156283.0
-"Sweetwater, TX",TX,156133.0
-"DuBois, PA",PA,156100.0
-"Mount Vernon, IL",IL,155667.0
-"Grenada, MS",MS,155433.0
-"Mexico, MO",MO,153900.0
-"Macon, GA",GA,153333.0
-"Charleston, IL",IL,153300.0
-"Borger, TX",TX,153300.0
-"Richmond, IN",IN,153283.0
-"Peoria, IL",IL,152167.0
-"Saginaw, MI",MI,152000.0
-"Elmira, NY",NY,152000.0
-"Big Stone Gap, VA",VA,151283.0
-"Warren, PA",PA,149117.0
-"Sikeston, MO",MO,148817.0
-"Oil City, PA",PA,148250.0
-"Bucyrus, OH",OH,147833.0
-"Peru, IN",IN,147433.0
-"Olean, NY",NY,147383.0
-"Carbondale, IL",IL,147267.0
-"Zapata, TX",TX,147250.0
-"Muncie, IN",IN,146617.0
-"Greenwood, MS",MS,145600.0
-"Burlington, IA",IA,144900.0
-"Middlesborough, KY",KY,144167.0
-"Fort Madison, IA",IA,143717.0
-"Great Bend, KS",KS,143200.0
-"Snyder, TX",TX,141330.0
-"Woodward, OK",OK,141083.0
-"Roanoke Rapids, NC",NC,139867.0
-"Blytheville, AR",AR,138717.0
-"Pampa, TX",TX,138283.0
-"Pontiac, IL",IL,137733.0
-"Decatur, IL",IL,137299.0
-"Hutchinson, KS",KS,136633.0
-"Sterling, IL",IL,135767.0
-"Bradford, PA",PA,135450.0
-"New Castle, PA",PA,135083.0
-"Pine Bluff, AR",AR,135000.0
-"Jacksonville, IL",IL,132783.0
-"Weirton, WV",OH,131750.0
-"Hope, AR",AR,131058.0
-"Taylorville, IL",IL,129267.0
-"Freeport, IL",IL,126650.0
-"Sunbury, PA",PA,126467.0
-"Kennett, MO",MO,126333.0
-"Forrest City, AR",AR,125400.0
-"Centralia, IL",IL,124633.0
-"Bennettsville, SC",SC,123067.0
-"Pottsville, PA",PA,122617.0
-"Winfield, KS",KS,121600.0
-"Lincoln, IL",IL,121217.0
-"Marion, IN",IN,119633.0
-"Greenville, MS",MS,117917.0
-"Indianola, MS",MS,117483.0
-"Galesburg, IL",IL,117467.0
-"Coffeyville, KS",KS,117083.0
-"St. Marys, PA",PA,115629.0
-"Hereford, TX",TX,115000.0
-"Mount Gay, WV",WV,109917.0
-"Danville, IL",IL,109100.0
-"Vernon, TX",TX,101333.0
-"Helena, AR",AR,100117.0
-"Johnstown, PA",PA,97467.0
-"Parsons, KS",KS,90233.0
-"Selma, AL",AL,85417.0
-"Macomb, IL",IL,80967.0
-"Clewiston, FL",FL,68333.0
+Region,Acronyms,Price,State
+"Vineyard Haven, MA",MA,2366667.0,Massachusetts
+"Edwards, CO",CO,1978833.0,Colorado
+"Hailey, ID",ID,1545000.0,Idaho
+"Jackson, WY",WY,1496333.0,Wyoming
+"Santa Maria, CA",CA,1451750.0,California
+"San Jose, CA",CA,1399498.0,California
+"Glenwood Springs, CO",CO,1380833.0,Colorado
+"Kapaa, HI",HI,1356500.0,Hawaii
+"Kahului, HI",HI,1323333.0,Hawaii
+"Napa, CA",CA,1303000.0,California
+"Steamboat Springs, CO",CO,1302500.0,Colorado
+"Key West, FL",FL,1298333.0,Florida
+"Heber, UT",UT,1281333.0,Utah
+"Santa Cruz, CA",CA,1241333.0,California
+"Salinas, CA",CA,1161500.0,California
+"Breckenridge, CO",CO,1069000.0,Colorado
+"San Francisco, CA",CA,1020833.0,California
+"Los Angeles, CA",CA,998967.0,California
+"San Luis Obispo, CA",CA,961666.0,California
+"San Diego, CA",CA,959667.0,California
+"Oxnard, CA",CA,949633.0,California
+"Bozeman, MT",MT,924667.0,Montana
+"Santa Rosa, CA",CA,910849.0,California
+"Boulder, CO",CO,868325.0,Colorado
+"Gardnerville Ranchos, NV",NV,866721.0,Nevada
+"Santa Fe, NM",NM,812483.0,New Mexico
+"Barnstable Town, MA",MA,799667.0,Massachusetts
+"Fredericksburg, TX",TX,795333.0,Texas
+"Urban Honolulu, HI",HI,778333.0,Hawaii
+"Boston, MA",MA,768267.0,Massachusetts
+"Durango, CO",CO,763317.0,Colorado
+"Bend, OR",OR,762483.0,Oregon
+"Hood River, OR",OR,760983.0,Oregon
+"Naples, FL",FL,760263.0,Florida
+"Seattle, WA",WA,742650.0,Washington
+"Sandpoint, ID",ID,732333.0,Idaho
+"Truckee, CA",CA,722317.0,California
+"Bridgeport, CT",CT,719967.0,Connecticut
+"Kalispell, MT",MT,714633.0,Montana
+"Ellensburg, WA",WA,710833.0,Washington
+"Flagstaff, AZ",AZ,703117.0,Arizona
+"Ocean City, NJ",NJ,699933.0,New Jersey
+"Oak Harbor, WA",WA,695000.0,Washington
+"Montrose, CO",CO,689500.0,Colorado
+"Kill Devil Hills, NC",NC,679633.0,North Carolina
+"Los Alamos, NM",NM,678333.0,New Mexico
+"New York, NY",NY,675997.0,New York
+"Easton, MD",MD,665750.0,Maryland
+"Crestview, FL",FL,655833.0,Florida
+"Coeur d'Alene, ID",ID,654117.0,Idaho
+"Sevierville, TN",TN,646300.0,Tennessee
+"Bellingham, WA",WA,646167.0,Washington
+"St. George, UT",UT,643300.0,Utah
+"Reno, NV",NV,638333.0,Nevada
+"Denver, CO",CO,634250.0,Colorado
+"Missoula, MT",MT,629667.0,Montana
+"Sacramento, CA",CA,629633.0,California
+"Mount Vernon, WA",WA,614825.0,Washington
+"Hudson, NY",NY,614667.0,New York
+"Wenatchee, WA",WA,611300.0,Washington
+"Vallejo, CA",CA,598815.0,California
+"Spearfish, SD",SD,598333.0,South Dakota
+"Fort Collins, CO",CO,597333.0,Colorado
+"Portland, OR",OR,593333.0,Oregon
+"Ukiah, CA",CA,591667.0,California
+"Bremerton, WA",WA,590333.0,Washington
+"Salt Lake City, UT",UT,589817.0,Utah
+"Prescott Valley, AZ",AZ,586667.0,Arizona
+"Hilton Head Island, SC",SC,586333.0,South Carolina
+"Hilo, HI",HI,583833.0,Hawaii
+"Port Angeles, WA",WA,582325.0,Washington
+"Taos, NM",NM,581333.0,New Mexico
+"Astoria, OR",OR,581250.0,Oregon
+"Portland, ME",ME,577750.0,Maine
+"Boise City, ID",ID,575217.0,Idaho
+"Kerrville, TX",TX,573000.0,Texas
+"Newport, OR",OR,568125.0,Oregon
+"Washington, DC",VA,564667.0,Virginia
+"Riverside, CA",CA,564633.0,California
+"Provo, UT",UT,561650.0,Utah
+"Cullowhee, NC",NC,561217.0,North Carolina
+"Stockton, CA",CA,559823.0,California
+"Corvallis, OR",OR,559150.0,Oregon
+"Miami, FL",FL,550000.0,Florida
+"Prineville, OR",OR,546217.0,Oregon
+"Austin, TX",TX,546000.0,Texas
+"Sheridan, WY",WY,545333.0,Wyoming
+"Helena, MT",MT,539667.0,Montana
+"Brookings, OR",OR,538800.0,Oregon
+"Morehead City, NC",NC,537450.0,North Carolina
+"Olympia, WA",WA,532733.0,Washington
+"Nashville, TN",TN,531333.0,Tennessee
+"North Port, FL",FL,531333.0,Florida
+"Rexburg, ID",ID,529667.0,Idaho
+"Ogden, UT",UT,528300.0,Utah
+"Greeley, CO",CO,521633.0,Colorado
+"Bennington, VT",VT,517167.0,Vermont
+"Walla Walla, WA",WA,516333.0,Washington
+"Laconia, NH",NH,516150.0,New Hampshire
+"Medford, OR",OR,511333.0,Oregon
+"Carson City, NV",NV,506875.0,Nevada
+"Phoenix, AZ",AZ,504633.0,Arizona
+"Colorado Springs, CO",CO,501785.0,Colorado
+"Stephenville, TX",TX,499648.0,Texas
+"Kingston, NY",NY,499600.0,New York
+"Charleston, SC",SC,498423.0,South Carolina
+"Modesto, CA",CA,494833.0,California
+"Madera, CA",CA,494133.0,California
+"Wilmington, NC",NC,494000.0,North Carolina
+"Juneau, AK",AK,490317.0,Alaska
+"Shelton, WA",WA,489650.0,Washington
+"Moscow, ID",ID,489150.0,Idaho
+"Payson, AZ",AZ,485167.0,Arizona
+"Brevard, NC",NC,485000.0,North Carolina
+"Sonora, CA",CA,484600.0,California
+"Providence, RI",RI,484117.0,Rhode Island
+"Eureka, CA",CA,479000.0,California
+"Salem, OR",OR,478233.0,Oregon
+"Eugene, OR",OR,476300.0,Oregon
+"Grants Pass, OR",OR,475000.0,Oregon
+"Daphne, AL",AL,473000.0,Alabama
+"Kennewick, WA",WA,472667.0,Washington
+"Centralia, WA",WA,472583.0,Washington
+"Salisbury, MD",DE,471600.0,Delaware
+"Spirit Lake, IA",IA,470300.0,Iowa
+"Logan, UT",UT,468200.0,Utah
+"Spokane, WA",WA,467992.0,Washington
+"Charlottesville, VA",VA,466667.0,Virginia
+"Brenham, TX",TX,466167.0,Texas
+"Torrington, CT",CT,463800.0,Connecticut
+"Gainesville, TX",TX,462467.0,Texas
+"Manchester, NH",NH,461667.0,New Hampshire
+"Yuba City, CA",CA,459233.0,California
+"Raleigh, NC",NC,457007.0,North Carolina
+"Grand Junction, CO",CO,455000.0,Colorado
+"Traverse City, MI",MI,454667.0,Mississippi
+"Billings, MT",MT,453633.0,Montana
+"Burlington, VT",VT,453000.0,Vermont
+"Las Vegas, NV",NV,450000.0,Nevada
+"Worcester, MA",MA,449950.0,Massachusetts
+"Crescent City, CA",CA,449117.0,California
+"Pittsfield, MA",MA,449000.0,Massachusetts
+"Show Low, AZ",AZ,446633.0,Arizona
+"Asheville, NC",NC,446333.0,North Carolina
+"Ruidoso, NM",NM,444750.0,New Mexico
+"Dallas, TX",TX,440000.0,Texas
+"Concord, NH",NH,439633.0,New Hampshire
+"Poughkeepsie, NY",NY,439333.0,New York
+"Boone, NC",NC,438950.0,North Carolina
+"Barre, VT",VT,437833.0,Vermont
+"Idaho Falls, ID",ID,437083.0,Idaho
+"Merced, CA",CA,436498.0,California
+"Orlando, FL",FL,436167.0,Florida
+"Port St. Lucie, FL",FL,435583.0,Florida
+"Pullman, WA",WA,435467.0,Washington
+"Pinehurst, NC",NC,434633.0,North Carolina
+"Blackfoot, ID",ID,434000.0,Idaho
+"Fresno, CA",CA,433333.0,California
+"Durham, NC",NC,433333.0,North Carolina
+"Ann Arbor, MI",MI,433333.0,Michigan
+"Lebanon, NH",NH,432633.0,New Hampshire
+"Granbury, TX",TX,431300.0,Texas
+"Panama City, FL",FL,430933.0,Florida
+"Gainesville, GA",GA,429950.0,Georgia
+"Redding, CA",CA,429450.0,California
+"Fernley, NV",NV,428167.0,Nevada
+"Mineral Wells, TX",TX,422499.0,Texas
+"Albany, OR",OR,421667.0,Oregon
+"California, MD",MD,421667.0,Maryland
+"Ca-¦on City, CO",CO,421167.0,Colorado
+"Jefferson, GA",GA,419650.0,Georgia
+"Longview, WA",WA,416667.0,Washington
+"Chico, CA",CA,416600.0,California
+"Keene, NH",NH,416333.0,New Hampshire
+"Fayetteville, AR",AR,415000.0,Arkansas
+"Tampa, FL",FL,414967.0,Florida
+"Sebastian, FL",FL,413750.0,Florida
+"Twin Falls, ID",ID,409983.0,Idaho
+"Laramie, WY",WY,409750.0,Wyoming
+"Espa-¦ola, NM",NM,408617.0,New Mexico
+"Lewiston, ID",ID,408333.0,Idaho
+"Shelbyville, TN",TN,408297.0,Tennessee
+"Fallon, NV",NV,408167.0,Nevada
+"Moses Lake, WA",WA,407967.0,Washington
+"Rapid City, SD",SD,406600.0,South Dakota
+"Cheyenne, WY",WY,406333.0,Wyoming
+"Ketchikan, AK",AK,405833.0,Alaska
+"Knoxville, TN",TN,405000.0,Tennessee
+"Madison, WI",WI,405000.0,Wisconsin
+"Whitewater, WI",WI,403933.0,Wisconsin
+"Yakima, WA",WA,403000.0,Washington
+"Cedar City, UT",UT,401533.0,Utah
+"Charlotte, NC",NC,399967.0,North Carolina
+"Jacksonville, FL",FL,399956.0,Florida
+"The Villages, FL",FL,399900.0,Florida
+"Anchorage, AK",AK,399000.0,Alaska
+United States,,397833.0,
+"Clearlake, CA",CA,397667.0,California
+"Ontario, OR",OR,396333.0,Oregon
+"Tullahoma, TN",TN,394667.0,Tennessee
+"Atlanta, GA",GA,394633.0,Georgia
+"Minneapolis, MN",MN,394600.0,Minnesota
+"Morristown, TN",TN,392750.0,Tennessee
+"Deltona, FL",FL,392333.0,Florida
+"Aberdeen, WA",WA,390967.0,Washington
+"Winchester, VA",VA,390667.0,Virginia
+"Albuquerque, NM",NM,389933.0,New Mexico
+"Riverton, WY",WY,389000.0,Wyoming
+"Visalia, CA",CA,388000.0,California
+"Pocatello, ID",ID,387183.0,Idaho
+"Tucson, AZ",AZ,386666.0,Arizona
+"Trenton, NJ",NJ,386300.0,New Jersey
+"Athens, TX",TX,385800.0,Texas
+"Rockport, TX",TX,385217.0,Texas
+"The Dalles, OR",OR,384633.0,Oregon
+"Lewisburg, TN",TN,383617.0,Tennessee
+"Savannah, GA",GA,383150.0,Georgia
+"Chattanooga, TN",TN,382000.0,Tennessee
+"Brainerd, MN",MN,381600.0,Minnesota
+"Auburn, AL",AL,381500.0,Alabama
+"Athens, GA",GA,379900.0,Georgia
+"Brunswick, GA",GA,379900.0,Georgia
+"Red Bluff, CA",CA,379800.0,California
+"Midland, TX",TX,379667.0,Texas
+"Burley, ID",ID,377167.0,Idaho
+"Fort Morgan, CO",CO,377000.0,Colorado
+"Coos Bay, OR",OR,376667.0,Oregon
+"State College, PA",PA,375117.0,Pennsylvania
+"Hanford, CA",CA,374967.0,California
+"Bonham, TX",TX,374667.0,Texas
+"Bakersfield, CA",CA,374633.0,California
+"Alexandria, MN",MN,374100.0,Minnesota
+"Milledgeville, GA",GA,373467.0,Georgia
+"Palm Bay, FL",FL,373333.0,Florida
+"Tyler, TX",TX,373172.0,Texas
+"Roseburg, OR",OR,371167.0,Oregon
+"Vernal, UT",UT,368000.0,Utah
+"Georgetown, SC",SC,367662.0,South Carolina
+"Norwich, CT",CT,367600.0,Connecticut
+"Gillette, WY",WY,367000.0,Wyoming
+"College Station, TX",TX,366807.0,Texas
+"Fergus Falls, MN",MN,366650.0,Minnesota
+"Houston, TX",TX,366000.0,Texas
+"Sherman, TX",TX,365248.0,Texas
+"Atlantic City, NJ",NJ,364800.0,New Jersey
+"Augusta, ME",ME,363300.0,Maine
+"Mount Pleasant, TX",TX,361600.0,Texas
+"Huntsville, AL",AL,361567.0,Alabama
+"Richmond, VA",VA,361317.0,Virginia
+"Arcadia, FL",FL,360967.0,Florida
+"Nogales, AZ",AZ,360833.0,Arizona
+"Pensacola, FL",FL,360650.0,Florida
+"Watertown, SD",SD,360617.0,South Dakota
+"Seneca, SC",SC,359983.0,South Carolina
+"Holland, MI",MI,359933.0,Michigan
+"Oxford, MS",MS,359798.0,Mississippi
+"Niles, MI",MI,359750.0,Michigan
+"Craig, CO",CO,359100.0,Colorado
+"Huntsville, TX",TX,358668.0,Texas
+"Alexander City, AL",AL,358667.0,Alabama
+"Pahrump, NV",NV,358667.0,Nevada
+"Dayton, TN",TN,358133.0,Tennessee
+"Lexington, KY",KY,358050.0,Kentucky
+"Rutland, VT",VT,357300.0,Vermont
+"Green Bay, WI",WI,354633.0,Wisconsin
+"Lawrence, KS",KS,354317.0,Kansas
+"Uvalde, TX",TX,353333.0,Texas
+"Elko, NV",NV,352833.0,Nevada
+"San Antonio, TX",TX,352667.0,Texas
+"Cookeville, TN",TN,352467.0,Tennessee
+"Mountain Home, ID",ID,352367.0,Idaho
+"Evanston, WY",WY,352283.0,Wyoming
+"Othello, WA",WA,352000.0,Washington
+"Las Cruces, NM",NM,351600.0,New Mexico
+"Bismarck, ND",ND,351583.0,North Dakota
+"Baltimore, MD",MD,349998.0,Maryland
+"Virginia Beach, VA",VA,349933.0,Virginia
+"Lakeland, FL",FL,349933.0,Florida
+"Sioux Falls, SD",SD,349933.0,South Dakota
+"New Haven, CT",CT,349900.0,Connecticut
+"Pueblo, CO",CO,349600.0,Colorado
+"Bloomington, IN",IN,349050.0,Indiana
+"Cornelia, GA",GA,348966.0,Georgia
+"Harrisonburg, VA",VA,348933.0,Virginia
+"Cleveland, TN",TN,348233.0,Tennessee
+"East Stroudsburg, PA",PA,347950.0,Pennsylvania
+"Faribault, MN",MN,347317.0,Minnesota
+"Johnson City, TN",TN,347131.0,Tennessee
+"Klamath Falls, OR",OR,346617.0,Oregon
+"Watertown, WI",WI,346600.0,Wisconsin
+"Dover, DE",DE,346483.0,Delaware
+"Hartford, CT",CT,346267.0,Connecticut
+"Crossville, TN",TN,346267.0,Tennessee
+"Gainesville, FL",FL,346000.0,Florida
+"Greenville, SC",SC,345933.0,South Carolina
+"Grand Rapids, MI",MI,345900.0,Michigan
+"Springfield, MA",MA,344933.0,Massachusetts
+"Rochester, MN",MN,344917.0,Minnesota
+"Hermiston, OR",OR,343108.0,Oregon
+"Columbus, OH",OH,341533.0,Ohio
+"Winnemucca, NV",NV,340650.0,Nevada
+"Chicago, IL",IL,339967.0,Illinois
+"Brookings, SD",SD,339950.0,South Dakota
+"Punta Gorda, FL",FL,339900.0,Florida
+"Myrtle Beach, SC",SC,339612.0,South Carolina
+"Sanford, NC",NC,338442.0,North Carolina
+"Newport, TN",TN,337117.0,Tennessee
+"El Centro, CA",CA,336667.0,California
+"Washington, NC",NC,334650.0,North Carolina
+"Gettysburg, PA",PA,334000.0,Pennsylvania
+"Jacksonville, TX",TX,333400.0,Texas
+"Allentown, PA",PA,333317.0,Pennsylvania
+"Corpus Christi, TX",TX,332633.0,Texas
+"Thomasville, GA",GA,329967.0,Georgia
+"Lancaster, PA",PA,329133.0,Pennsylvania
+"Ithaca, NY",NY,328817.0,New York
+"Roanoke, VA",VA,328317.0,Virginia
+"Las Vegas, NM",NM,326500.0,New Mexico
+"Lewiston, ME",ME,324933.0,Maine
+"Burlington, NC",NC,324827.0,North Carolina
+"Casper, WY",WY,324667.0,Wyoming
+"La Grande, OR",OR,324500.0,Oregon
+"Columbia, MO",MO,323467.0,Missouri
+"Clarksville, TN",TN,323333.0,Tennessee
+"Tallahassee, FL",FL,323300.0,Florida
+"Fargo, ND",ND,321892.0,North Dakota
+"Great Falls, MT",MT,321667.0,Montana
+"Philadelphia, PA",PA,321633.0,Pennsylvania
+"Cape Coral, FL",FL,321300.0,Florida
+"Yuma, AZ",AZ,321283.0,Arizona
+"Bowling Green, KY",KY,319933.0,Kentucky
+"Tulsa, OK",OK,319900.0,Oklahoma
+"Appleton, WI",WI,319900.0,Wisconsin
+"Starkville, MS",MS,319800.0,Mississippi
+"Ocala, FL",FL,319633.0,Florida
+"Mankato, MN",MN,319000.0,Minnesota
+"Killeen, TX",TX,318719.0,Texas
+"Columbus, NE",NE,318633.0,Nebraska
+"Albany, NY",NY,318300.0,New York
+"Angola, IN",IN,318233.0,Indiana
+"Forest City, NC",NC,317667.0,North Carolina
+"Staunton, VA",VA,317467.0,Virginia
+"Red Wing, MN",MN,317300.0,Minnesota
+"Susanville, CA",CA,316633.0,California
+"Wauchula, FL",FL,316633.0,Florida
+"Lincoln, NE",NE,316300.0,Nebraska
+"Des Moines, IA",IA,316000.0,Iowa
+"Blacksburg, VA",VA,314117.0,Virginia
+"New Orleans, LA",LA,313333.0,Louisiana
+"Lynchburg, VA",VA,313100.0,Virginia
+"New Bern, NC",NC,313000.0,North Carolina
+"Durant, OK",OK,312042.0,Oklahoma
+"Fairbanks, AK",AK,311742.0,Alaska
+"Farmington, NM",NM,311483.0,New Mexico
+"Oklahoma City, OK",OK,310997.0,Oklahoma
+"Brownsville, TX",TX,310556.0,Texas
+"McMinnville, TN",TN,310233.0,Tennessee
+"Omaha, NE",NE,309983.0,Nebraska
+"Bemidji, MN",MN,309983.0,Minnesota
+"Kansas City, MO",MO,309967.0,Missouri
+"Warsaw, IN",IN,309967.0,Indiana
+"Williston, ND",ND,309633.0,North Dakota
+"Lawrenceburg, TN",TN,309300.0,Tennessee
+"Fort Payne, AL",AL,308750.0,Alabama
+"Homosassa Springs, FL",FL,308667.0,Florida
+"Baraboo, WI",WI,308133.0,Wisconsin
+"Mount Vernon, OH",OH,308116.0,Ohio
+"Albemarle, NC",NC,308000.0,North Carolina
+"Hot Springs, AR",AR,307850.0,Arkansas
+"Greenwood, SC",SC,307700.0,South Carolina
+"Iowa City, IA",IA,307650.0,Iowa
+"Statesboro, GA",GA,307000.0,Georgia
+"Albertville, AL",AL,306950.0,Alabama
+"Spartanburg, SC",SC,306533.0,South Carolina
+"St. Marys, GA",GA,306383.0,Georgia
+"Lake City, FL",FL,305300.0,Florida
+"Pierre, SD",SD,304667.0,South Dakota
+"Winston, NC",NC,303650.0,North Carolina
+"Newberry, SC",SC,303583.0,South Carolina
+"St. Cloud, MN",MN,303217.0,Minnesota
+"Athens, TN",TN,302893.0,Tennessee
+"Greensboro, NC",NC,302816.0,North Carolina
+"Moultrie, GA",GA,302300.0,Georgia
+"Columbus, IN",IN,301600.0,Indiana
+"Milwaukee, WI",WI,299967.0,Wisconsin
+"Waco, TX",TX,299900.0,Texas
+"Jacksonville, NC",NC,299900.0,North Carolina
+"Lake Havasu City, AZ",AZ,299780.0,Arizona
+"Indianapolis, IN",IN,299667.0,Indiana
+"Hagerstown, MD",MD,299600.0,Maryland
+"Springfield, MO",MO,298633.0,Missouri
+"Glens Falls, NY",NY,298333.0,New York
+"Murray, KY",KY,298300.0,Kentucky
+"Elizabeth City, NC",NC,297933.0,Utah
+"Butte, MT",MT,297500.0,Montana
+"Silver City, NM",NM,297333.0,New Mexico
+"Greeneville, TN",TN,297117.0,Tennessee
+"Cincinnati, OH",OH,297000.0,Ohio
+"Yankton, SD",SD,295783.0,South Dakota
+"Kendallville, IN",IN,295750.0,Indiana
+"Elizabethtown, KY",KY,295217.0,Kentucky
+"Mitchell, SD",SD,294917.0,South Dakota
+"Sierra Vista, AZ",AZ,294133.0,Arizona
+"Beaver Dam, WI",WI,292950.0,Wisconsin
+"Bay City, TX",TX,292871.0,Texas
+"Warrensburg, MO",MO,292150.0,Missouri
+"Ludington, MI",MI,292100.0,Michigan
+"Chambersburg, PA",PA,291600.0,Pennsylvania
+"Harrison, AR",AR,291267.0,Arkansas
+"Price, UT",UT,290833.0,Utah
+"Willmar, MN",MN,290800.0,Minnesota
+"Dalton, GA",GA,290600.0,Georgia
+"Decatur, AL",AL,290359.0,Alabama
+"Cullman, AL",AL,290026.0,Alabama
+"Safford, AZ",AZ,290000.0,Arizona
+"El Paso, TX",TX,289950.0,Texas
+"Bardstown, KY",KY,289950.0,Kentucky
+"La Crosse, WI",WI,289933.0,Wisconsin
+"Columbia, SC",SC,288033.0,South Carolina
+"Richmond, KY",KY,288033.0,Kentucky
+"Morgantown, WV",WV,287667.0,West Virginia
+"Lewisburg, PA",PA,287447.0,Pennsylvania
+"Longview, TX",TX,286833.0,Texas
+"Carlsbad, NM",NM,286833.0,New Mexico
+"Henderson, NC",NC,286133.0,North Carolina
+"Baton Rouge, LA",LA,285450.0,Louisiana
+"Sulphur Springs, TX",TX,285417.0,Texas
+"San Angelo, TX",TX,285333.0,Texas
+"Lebanon, PA",PA,285300.0,Pennsylvania
+"Corsicana, TX",TX,285000.0,Texas
+"Birmingham, AL",AL,284617.0,Alabama
+"Jefferson City, MO",MO,284617.0,Missouri
+"Grand Island, NE",NE,283967.0,Nebraska
+"Branson, MO",MO,283783.0,Missouri
+"Kearney, NE",NE,283167.0,Nebraska
+"Ames, IA",IA,283133.0,Iowa
+"Pella, IA",IA,282650.0,Iowa
+"Abilene, TX",TX,282583.0,Texas
+"Ruston, LA",LA,282500.0,Louisiana
+"Natchitoches, LA",LA,282333.0,Louisiana
+"Owatonna, MN",MN,282200.0,Minnesota
+"Bangor, ME",ME,281000.0,Maine
+"Kalamazoo, MI",MI,280467.0,Michigan
+"Cordele, GA",GA,280333.0,Georgia
+"Louisville, KY",KY,279833.0,Kentucky
+"Kingsport, TN",TN,279633.0,Tennessee
+"Dubuque, IA",IA,278967.0,Iowa
+"Plymouth, IN",IN,278833.0,Indiana
+"Calhoun, GA",GA,278086.0,Georgia
+"Lafayette, IN",IN,277967.0,Indiana
+"Rock Springs, WY",WY,277500.0,Wyoming
+"Alamogordo, NM",NM,277167.0,New Mexico
+"Grand Rapids, MN",MN,277033.0,Minnesota
+"Winona, MN",MN,276517.0,Minnesota
+"Duluth, MN",MN,276267.0,Minnesota
+"Augusta, GA",GA,276250.0,Georgia
+"Palatka, FL",FL,275617.0,Florida
+"Stillwater, OK",OK,275523.0,Oklahoma
+"Bainbridge, GA",GA,274967.0,Georgia
+"Fremont, NE",NE,274917.0,Nebraska
+"Dublin, GA",GA,274633.0,Georgia
+"Paris, TN",TN,274617.0,Tennessee
+"Stevens Point, WI",WI,274200.0,Wisconsin
+"Jackson, TN",TN,274000.0,Tennessee
+"Memphis, TN",TN,273267.0,Tennessee
+"Lebanon, MO",MO,273267.0,Missouri
+"Sandusky, OH",OH,273133.0,Ohio
+"Douglas, GA",GA,272950.0,Georgia
+"Greenville, NC",NC,272650.0,North Carolina
+"Fond du Lac, WI",WI,271600.0,Wisconsin
+"Paris, TX",TX,271583.0,Texas
+"York, PA",PA,271567.0,Pennsylvania
+"Palestine, TX",TX,271333.0,Texas
+"Nacogdoches, TX",TX,271283.0,Texas
+"Hinesville, GA",GA,271050.0,Georgia
+"Worthington, MN",MN,270017.0,Minnesota
+"Reading, PA",PA,269967.0,Pennsylvania
+"Fort Wayne, IN",IN,269933.0,Indiana
+"Toccoa, GA",GA,269833.0,Georgia
+"North Wilkesboro, NC",NC,269300.0,North Carolina
+"Sterling, CO",CO,269083.0,Colorado
+"Racine, WI",WI,268267.0,Wisconsin
+"Hutchinson, MN",MN,268267.0,Minnesota
+"Tuscaloosa, AL",AL,268250.0,Alabama
+"Warner Robins, GA",GA,268083.0,Georgia
+"Dodge City, KS",KS,267983.0,Kansas
+"Andrews, TX",TX,267367.0,Texas
+"Berlin, NH",NH,266483.0,New Hampshire
+"Hickory, NC",NC,266267.0,North Carolina
+"Elkins, WV",WV,266167.0,West Virginia
+"Victoria, TX",TX,266039.0,Texas
+"Frankfort, KY",KY,265817.0,Kentucky
+"Fayetteville, NC",NC,265416.0,North Carolina
+"Rome, GA",GA,264966.0,Georgia
+"Florence, AL",AL,264900.0,Alabama
+"Janesville, WI",WI,264600.0,Wisconsin
+"Amarillo, TX",TX,264133.0,Texas
+"Midland, MI",MI,263967.0,Michigan
+"Jesup, GA",GA,263933.0,Georgia
+"Monroe, MI",MI,263417.0,Michigan
+"Cedartown, GA",GA,263283.0,Georgia
+"Sioux City, IA",IA,263000.0,Iowa
+"Somerset, KY",KY,262950.0,Kentucky
+"Menomonie, WI",WI,262633.0,Wisconsin
+"Campbellsville, KY",KY,262600.0,Kentucky
+"Wausau, WI",WI,262297.0,Wisconsin
+"Dickinson, ND",ND,262150.0,North Dakota
+"Sheboygan, WI",WI,261933.0,Wisconsin
+"Oshkosh, WI",WI,261600.0,Wisconsin
+"Vidalia, GA",GA,260817.0,Georgia
+"Wooster, OH",OH,260667.0,Ohio
+"Michigan City, IN",IN,260667.0,Indiana
+"Cambridge, MD",MD,259945.0,Maryland
+"Martin, TN",TN,258617.0,Tennessee
+"Harrisburg, PA",PA,258083.0,Pennsylvania
+"Lufkin, TX",TX,258083.0,Texas
+"Hammond, LA",LA,258033.0,Louisiana
+"Del Rio, TX",TX,257817.0,Texas
+"Coldwater, MI",MI,257067.0,Michigan
+"Sumter, SC",SC,256667.0,South Carolina
+"Scottsboro, AL",AL,256608.0,Alabama
+"Grand Forks, ND",MN,256600.0,Minnesota
+"Valdosta, GA",GA,256567.0,Georgia
+"Tifton, GA",GA,256133.0,Georgia
+"Elkhart, IN",IN,254833.0,Indiana
+"Jonesboro, AR",AR,254133.0,Arkansas
+"Eagle Pass, TX",TX,254133.0,Texas
+"Lubbock, TX",TX,253992.0,Texas
+"El Campo, TX",TX,253500.0,Texas
+"Rolla, MO",MO,253450.0,Missouri
+"Little Rock, AR",AR,253300.0,Arkansas
+"Marquette, MI",MI,252967.0,Michigan
+"Jasper, AL",AL,252750.0,Alabama
+"Brownwood, TX",TX,252732.0,Texas
+"Odessa, TX",TX,252697.0,Texas
+"Topeka, KS",KS,251600.0,Kansas
+"Okeechobee, FL",FL,251600.0,Florida
+"Sebring, FL",FL,250597.0,Florida
+"Shawano, WI",WI,250567.0,Wisconsin
+"Wichita, KS",KS,249967.0,Kansas
+"Hattiesburg, MS",MS,249667.0,Mississippi
+"Oneonta, NY",NY,249667.0,New York
+"McAllen, TX",TX,249383.0,Texas
+"Manhattan, KS",KS,249317.0,Kansas
+"Danville, KY",KY,249300.0,Kentucky
+"Gallup, NM",NM,248500.0,New Mexico
+"Picayune, MS",MS,248483.0,Mississippi
+"Tahlequah, OK",OK,248400.0,Oklahoma
+"Lafayette, LA",LA,248300.0,Louisiana
+"Fort Smith, AR",AR,248133.0,Arkansas
+"Findlay, OH",OH,248100.0,Ohio
+"Shawnee, OK",OK,247983.0,Oklahoma
+"Plattsburgh, NY",NY,247967.0,New York
+"Big Rapids, MI",MI,247467.0,Michigan
+"Chillicothe, OH",OH,247433.0,Ohio
+"Ada, OK",OK,245667.0,Oklahoma
+"Sedalia, MO",MO,245267.0,Missouri
+"LaGrange, GA",GA,244950.0,Georgia
+"Norfolk, NE",NE,244942.0,Missouri
+"Buffalo, NY",NY,244883.0,New York
+"Ashland, OH",OH,244767.0,Ohio
+"Marion, NC",NC,244617.0,North Carolina
+"Mountain Home, AR",AR,244600.0,Arkansas
+"Mount Airy, NC",NC,244483.0,North Carolina
+"Goldsboro, NC",NC,244450.0,North Carolina
+"West Plains, MO",MO,244150.0,Missouri
+"Gulfport, MS",MS,244050.0,Mississippi
+"Detroit, MI",MI,243817.0,Michigan
+"Greensburg, IN",IN,243650.0,Indiana
+"Laredo, TX",TX,243467.0,Texas
+"Joplin, MO",MO,243300.0,Missouri
+"Adrian, MI",MI,243267.0,Michigan
+"Gaffney, SC",SC,243242.0,South Carolina
+"Bloomington, IL",IL,243133.0,Illinois
+"Ardmore, OK",OK,242483.0,Oklahoma
+"Eufaula, AL",AL,241667.0,Alabama
+"Florence, SC",SC,241300.0,South Carolina
+"Sidney, OH",OH,240967.0,Ohio
+"Aberdeen, SD",SD,240900.0,South Dakota
+"Texarkana, TX",TX,240833.0,Texas
+"North Platte, NE",NE,240817.0,Nebraska
+"Garden City, KS",KS,239983.0,Kansas
+"Scottsbluff, NE",NE,239817.0,Nebraska
+"Maysville, KY",KY,239617.0,Kentucky
+"Vermillion, SD",SD,239500.0,South Dakota
+"Clovis, NM",NM,239300.0,New Mexico
+"Enterprise, AL",AL,238717.0,Alabama
+"Bellefontaine, OH",OH,238450.0,Ohio
+"Mobile, AL",AL,238267.0,Alabama
+"Wilson, NC",NC,238267.0,North Carolina
+"Miami, OK",OK,238133.0,Oklahoma
+"Columbus, MS",MS,238083.0,Mississippi
+"Glasgow, KY",KY,238083.0,Kentucky
+"Coshocton, OH",OH,238000.0,Ohio
+"Evansville, IN",IN,237233.0,Indiana
+"Marietta, OH",OH,236633.0,Ohio
+"Shelby, NC",NC,236533.0,North Carolina
+"Owensboro, KY",KY,235750.0,Kentucky
+"Kingsville, TX",TX,235650.0,Texas
+"Urbana, OH",OH,235583.0,Ohio
+"Vineland, NJ",NJ,235333.0,New Jersey
+"Roswell, NM",NM,234983.0,New Mexico
+"Williamsport, PA",PA,234933.0,Pennsylvania
+"Hillsdale, MI",MI,234833.0,Michigan
+"Madison, IN",IN,234650.0,Indiana
+"Hastings, NE",NE,234633.0,Nebraska
+"Cadillac, MI",MI,234567.0,Michigan
+"Lexington, NE",NE,234500.0,Nebraska
+"Point Pleasant, WV",OH,233883.0,Ohio
+"Storm Lake, IA",IA,233300.0,Iowa
+"Grants, NM",NM,233200.0,New Mexico
+"Muskegon, MI",MI,233150.0,Michigan
+"Sturgis, MI",MI,232929.0,Michigan
+"McAlester, OK",OK,232483.0,Oklahoma
+"Minot, ND",ND,232467.0,North Dakota
+"Scranton, PA",PA,231333.0,Pennsylvania
+"Ottawa, KS",KS,231300.0,Kansas
+"New Ulm, MN",MN,231017.0,Minnesota
+"Orangeburg, SC",SC,230467.0,South Carolina
+"Houma, LA",LA,229967.0,Louisiana
+"Crawfordsville, IN",IN,229633.0,Indiana
+"Levelland, TX",TX,229600.0,Texas
+"Jasper, IN",IN,229217.0,Indiana
+"Seneca Falls, NY",NY,228867.0,New York
+"Washington, IN",IN,228550.0,Indiana
+"Eau Claire, WI",WI,228267.0,Wisconsin
+"Columbus, GA",GA,228167.0,Georgia
+"Gadsden, AL",AL,228133.0,Iowa
+"Syracuse, NY",NY,227950.0,New York
+"Americus, GA",GA,227667.0,Georgia
+"Kinston, NC",NC,227650.0,North Carolina
+"Frankfort, IN",IN,227500.0,Indiana
+"Monroe, LA",LA,227333.0,Louisiana
+"Russellville, AR",AR,227000.0,Arkansas
+"Bloomsburg, PA",PA,226600.0,Pennsylvania
+"Zanesville, OH",OH,226417.0,Ohio
+"Champaign, IL",IL,226217.0,Illinois
+"Lake Charles, LA",LA,226000.0,Louisiana
+"Auburn, IN",IN,225761.0,Indiana
+"Brownsville, TN",TN,225633.0,Tennessee
+"St. Louis, MO",MO,224967.0,Missouri
+"Pittsburgh, PA",PA,224967.0,Pennsylvania
+"South Bend, IN",IN,224900.0,Indiana
+"Wichita Falls, TX",TX,224867.0,Texas
+"Gloversville, NY",NY,223933.0,New York
+"Jackson, OH",OH,223800.0,Ohio
+"Fort Leonard Wood, MO",MO,223333.0,Missouri
+"Rocky Mount, NC",NC,223133.0,North Carolina
+"Wapakoneta, OH",OH,223133.0,Ohio
+"Searcy, AR",AR,222833.0,Arkansas
+"Austin, MN",MN,222483.0,Minnesota
+"Portales, NM",NM,222483.0,New Mexico
+"Jackson, MI",MI,222300.0,Michigan
+"Paducah, KY",KY,221942.0,Kentucky
+"Wilmington, OH",OH,221633.0,Ohio
+"Waycross, GA",GA,221600.0,Georgia
+"Montgomery, AL",AL,221567.0,Alabama
+"Hays, KS",KS,221333.0,Kansas
+"Pecos, TX",TX,221333.0,Texas
+"Cleveland, OH",OH,221233.0,Ohio
+"Jackson, MS",MS,221150.0,Mississippi
+"Rio Grande City, TX",TX,220467.0,Texas
+"Celina, OH",OH,220467.0,Ohio
+"Shreveport, LA",LA,220150.0,Louisiana
+"New Philadelphia, OH",OH,219900.0,Ohio
+"Malone, NY",NY,219817.0,New York
+"London, KY",KY,219650.0,Kentucky
+"Port Lavaca, TX",TX,219633.0,Texas
+"Selinsgrove, PA",PA,219473.0,Pennsylvania
+"Fort Polk South, LA",LA,219000.0,Louisiana
+"Magnolia, AR",AR,218833.0,Arkansas
+"Dayton, OH",OH,218467.0,Ohio
+"Alice, TX",TX,218333.0,Texas
+"Cape Girardeau, MO",MO,218283.0,Missouri
+"Lansing, MI",MI,217750.0,Michigan
+"Raymondville, TX",TX,216667.0,Texas
+"Tupelo, MS",MS,216417.0,Mississippi
+"Cedar Rapids, IA",IA,216300.0,Iowa
+"Auburn, NY",NY,216133.0,New York
+"Bedford, IN",IN,216100.0,Indiana
+"Liberal, KS",KS,215667.0,Kansas
+"Bartlesville, OK",OK,215000.0,Oklahoma
+"Seymour, IN",IN,214933.0,Indiana
+"Thomaston, GA",GA,214867.0,Georgia
+"Beaumont, TX",TX,214583.0,Texas
+"Paragould, AR",AR,214583.0,Arkansas
+"Mason City, IA",IA,214317.0,Iowa
+"Summerville, GA",GA,214150.0,Georgia
+"Marinette, WI",WI,214117.0,Wisconsin
+"Huntingdon, PA",PA,214100.0,Pennsylvania
+"Platteville, WI",WI,213867.0,Wisconsin
+"Escanaba, MI",MI,213283.0,Michigan
+"Watertown, NY",NY,213150.0,New York
+"Natchez, MS",LA,212900.0,Louisiana
+"Bluffton, IN",IN,211567.0,Indiana
+"Huron, SD",SD,211250.0,South Dakota
+"Rochester, NY",NY,211233.0,New York
+"Troy, AL",AL,211100.0,Alabama
+"Malvern, AR",AR,210800.0,Arkansas
+"Alexandria, LA",LA,210250.0,Louisiana
+"Washington Court House, OH",OH,210100.0,Ohio
+"Akron, OH",OH,210000.0,Ohio
+"Dothan, AL",AL,209967.0,Alabama
+"Scottsburg, IN",IN,209800.0,Indiana
+"Emporia, KS",KS,209750.0,Kansas
+"Cortland, NY",NY,208967.0,New York
+"Amsterdam, NY",NY,208667.0,New York
+"Beeville, TX",TX,207983.0,Texas
+"Anniston, AL",AL,207820.0,Alabama
+"Farmington, MO",MO,207417.0,Missouri
+"Meridian, MS",MS,207133.0,Mississippi
+"Wisconsin Rapids, WI",WI,207083.0,Wisconsin
+"Manitowoc, WI",WI,206633.0,Wisconsin
+"Mayfield, KY",KY,206483.0,Kentucky
+"Toledo, OH",OH,204917.0,Ohio
+"Alpena, MI",MI,204633.0,Michigan
+"Effingham, IL",IL,204450.0,Illinois
+"North Vernon, IN",IN,203950.0,Indiana
+"Corinth, MS",MS,203300.0,Mississippi
+"Talladega, AL",AL,202918.0,Alabama
+"Albert Lea, MN",MN,201667.0,Minnesota
+"Waterloo, IA",IA,201567.0,Iowa
+"Batavia, NY",NY,201433.0,New York
+"Sault Ste. Marie, MI",MI,201317.0,Michigan
+"Lewistown, PA",PA,199967.0,Pennsylvania
+"McPherson, KS",KS,199933.0,Kansas
+"Utica, NY",NY,199900.0,New York
+"Dyersburg, TN",TN,199783.0,Tennessee
+"Maryville, MO",MO,199600.0,Missouri
+"Hobbs, NM",NM,199483.0,New Mexico
+"Guymon, OK",OK,199417.0,Oklahoma
+"Deming, NM",NM,198967.0,"New Mexico
+"
+"Brookhaven, MS",MS,198833.0,Mississippi
+"Madisonville, KY",KY,198683.0,Kentucky
+"Danville, VA",VA,198483.0,Virginia
+"Albany, GA",GA,197950.0,Georgia
+"Bogalusa, LA",LA,197902.0,Louisiana
+"Defiance, OH",OH,197467.0,Ohio
+"Marshall, MN",MN,197083.0,Minnesota
+"Rochelle, IL",IL,196633.0,Illinois
+"Pearsall, TX",TX,196617.0,Texas
+"Canton, OH",OH,196600.0,Ohio
+"Erie, PA",PA,196567.0,Pennsylvania
+"Fairmont, MN",MN,196533.0,Minnesota
+"Kankakee, IL",IL,196467.0,Illinois
+"Laurel, MS",MS,195750.0,Mississippi
+"Weatherford, OK",OK,194933.0,Oklahoma
+"Cleveland, MS",MS,194700.0,Mississippi
+"DeRidder, LA",LA,194650.0,Louisiana
+"Parkersburg, WV",WV,194383.0,West Virginia
+"Mount Sterling, KY",KY,194333.0,Kentucky
+"Enid, OK",OK,193917.0,Oklahoma
+"Ozark, AL",AL,193317.0,Alabama
+"Mount Pleasant, MI",MI,193267.0,"Michigan "
+"Spencer, IA",IA,192950.0,Iowa
+"Somerset, PA",PA,192167.0,Pennsylvania
+"Decatur, IN",IN,192133.0,Indiana
+"Morgan City, LA",LA,192050.0,Louisiana
+"Duncan, OK",OK,191800.0,Oklahoma
+"Muskogee, OK",OK,191660.0,Oklahoma
+"Jamestown, ND",ND,191300.0,North Dakota
+"Lumberton, NC",NC,191117.0,North Carolina
+"Rockford, IL",IL,191000.0,Illinois
+"Big Spring, TX",TX,190958.0,Texas
+"Athens, OH",OH,190633.0,Ohio
+"Wahpeton, ND",ND,189950.0,North Dakota
+"Lima, OH",OH,189767.0,Ohio
+"Springfield, OH",OH,189667.0,Ohio
+"Altus, OK",OK,189583.0,Oklahoma
+"Muscatine, IA",IA,189433.0,Iowa
+"Cumberland, MD",MD,189383.0,Maryland
+"Sayre, PA",PA,189083.0,Pennsylvania
+"Battle Creek, MI",MI,188650.0,"Michigan "
+"Fremont, OH",OH,188467.0,Ohio
+"Carroll, IA",IA,188467.0,Iowa
+"Union City, TN",TN,187950.0,Tennessee
+"Fairmont, WV",WV,187883.0,West Virginia
+"Beckley, WV",WV,187667.0,West Virginia
+"Arkadelphia, AR",AR,186833.0,Arkansas
+"Jennings, LA",LA,186783.0,Louisiana
+"Atmore, AL",AL,186633.0,Alabama
+"Beatrice, NE",NE,185967.0,Nebraska
+"Meadville, PA",PA,185633.0,Pennsylvania
+"Greenville, OH",OH,185483.0,Ohio
+"Dixon, IL",IL,185433.0,Illinois
+"Opelousas, LA",LA,185167.0,Louisiana
+"Ashtabula, OH",OH,184946.0,Ohio
+"Flint, MI",MI,183600.0,"Michigan "
+"Marshall, MO",MO,182317.0,Missouri
+"Davenport, IA",IL,181967.0,Illinois
+"Huntington, IN",IN,181567.0,Indiana
+"Jamestown, NY",NY,180850.0,New York
+"St. Joseph, MO",MO,180833.0,Missouri
+"Alma, MI",MI,180300.0,"Michigan "
+"Plainview, TX",TX,180047.0,Texas
+"Kirksville, MO",MO,179900.0,Missouri
+"Norwalk, OH",OH,179817.0,Ohio
+"Iron Mountain, MI",MI,179750.0,Michigan
+"Van Wert, OH",OH,179533.0,Ohio
+"Martinsville, VA",VA,179467.0,Virginia
+"Corning, NY",NY,178850.0,New York
+"Huntington, WV",OH,178717.0,Ohio
+"Fairfield, IA",IA,177383.0,Iowa
+"McComb, MS",MS,176667.0,Mississippi
+"Poplar Bluff, MO",MO,176617.0,Missouri
+"Tiffin, OH",OH,176467.0,Ohio
+"Central City, KY",KY,176317.0,Kentucky
+"Elk City, OK",OK,176300.0,Oklahoma
+"Houghton, MI",MI,176233.0,Michigan
+"Binghamton, NY",NY,176117.0,New York
+"Lock Haven, PA",PA,175966.0,Pennsylvania
+"Lamesa, TX",TX,175667.0,Texas
+"Cambridge, OH",OH,175483.0,Ohio
+"Hannibal, MO",MO,174983.0,Missouri
+"Batesville, AR",AR,174583.0,Arkansas
+"Salina, KS",KS,174417.0,Kansas
+"Lawton, OK",OK,173133.0,Oklahoma
+"Wabash, IN",IN,173083.0,Indiana
+"Connersville, IN",IN,172417.0,Indiana
+"Laurinburg, NC",NC,172300.0,North Carolina
+"Vicksburg, MS",MS,171900.0,Mississippi
+"Bay City, MI",MI,171600.0,Michigan
+"New Castle, IN",IN,171533.0,Indiana
+"Altoona, PA",PA,170250.0,Pennsylvania
+"Oskaloosa, IA",IA,169800.0,Iowa
+"Moberly, MO",MO,169650.0,Missouri
+"Clarksburg, WV",WV,169450.0,West Virginia
+"Quincy, IL",IL,169383.0,Illinois
+"Kokomo, IN",IN,168250.0,Indiana
+"Mansfield, OH",OH,167917.0,Ohio
+"Ogdensburg, NY",NY,167667.0,New York
+"Terre Haute, IN",IN,167633.0,Indiana
+"Ottawa, IL",IL,167617.0,Illinois
+"El Dorado, AR",AR,167283.0,Arkansas
+"Dumas, TX",TX,166617.0,Texas
+"Rockingham, NC",NC,165967.0,North Carolina
+"Camden, AR",AR,165133.0,Arkansas
+"Marion, OH",OH,164950.0,Ohio
+"Logansport, IN",IN,164950.0,Indiana
+"Clinton, IA",IA,164617.0,Iowa
+"Charleston, WV",WV,164483.0,West Virginia
+"Fort Dodge, IA",IA,164267.0,Iowa
+"Springfield, IL",IL,163117.0,Illinois
+"Minden, LA",LA,161283.0,Louisiana
+"Vincennes, IN",IN,160450.0,Indiana
+"Salem, OH",OH,160333.0,Ohio
+"Youngstown, OH",OH,159950.0,Ohio
+"Marshalltown, IA",IA,159950.0,Iowa
+"Wheeling, WV",WV,159300.0,West Virginia
+"Indiana, PA",PA,158367.0,Pennsylvania
+"Bluefield, WV",WV,157567.0,West Virginia
+"Ponca City, OK",OK,157167.0,Oklahoma
+"Fitzgerald, GA",GA,156800.0,Georgia
+"Portsmouth, OH",OH,156633.0,Ohio
+"West Point, MS",MS,156617.0,Mississippi
+"Pittsburg, KS",KS,156583.0,Kansas
+"Ottumwa, IA",IA,156450.0,Iowa
+"Atchison, KS",KS,156450.0,Kansas
+"Union, SC",SC,156283.0,South Carolina
+"Sweetwater, TX",TX,156133.0,Texas
+"DuBois, PA",PA,156100.0,Pennsylvania
+"Mount Vernon, IL",IL,155667.0,Illinois
+"Grenada, MS",MS,155433.0,Mississippi
+"Mexico, MO",MO,153900.0,Missouri
+"Macon, GA",GA,153333.0,Georgia
+"Charleston, IL",IL,153300.0,Illinois
+"Borger, TX",TX,153300.0,Texas
+"Richmond, IN",IN,153283.0,Indiana
+"Peoria, IL",IL,152167.0,Illinois
+"Saginaw, MI",MI,152000.0,Michigan
+"Elmira, NY",NY,152000.0,New York
+"Big Stone Gap, VA",VA,151283.0,Virginia
+"Warren, PA",PA,149117.0,Pennsylvania
+"Sikeston, MO",MO,148817.0,Missouri
+"Oil City, PA",PA,148250.0,Pennsylvania
+"Bucyrus, OH",OH,147833.0,Ohio
+"Peru, IN",IN,147433.0,Indiana
+"Olean, NY",NY,147383.0,New York
+"Carbondale, IL",IL,147267.0,Illinois
+"Zapata, TX",TX,147250.0,Texas
+"Muncie, IN",IN,146617.0,Indiana
+"Greenwood, MS",MS,145600.0,Mississippi
+"Burlington, IA",IA,144900.0,Iowa
+"Middlesborough, KY",KY,144167.0,Kentucky
+"Fort Madison, IA",IA,143717.0,Iowa
+"Great Bend, KS",KS,143200.0,Kansas
+"Snyder, TX",TX,141330.0,Texas
+"Woodward, OK",OK,141083.0,Oklahoma
+"Roanoke Rapids, NC",NC,139867.0,North Carolina
+"Blytheville, AR",AR,138717.0,Arkansas
+"Pampa, TX",TX,138283.0,Texas
+"Pontiac, IL",IL,137733.0,Illinois
+"Decatur, IL",IL,137299.0,Illinois
+"Hutchinson, KS",KS,136633.0,Kansas
+"Sterling, IL",IL,135767.0,Illinois
+"Bradford, PA",PA,135450.0,Pennsylvania
+"New Castle, PA",PA,135083.0,Pennsylvania
+"Pine Bluff, AR",AR,135000.0,Arkansas
+"Jacksonville, IL",IL,132783.0,Illinois
+"Weirton, WV",OH,131750.0,Ohio
+"Hope, AR",AR,131058.0,Arkansas
+"Taylorville, IL",IL,129267.0,Illinois
+"Freeport, IL",IL,126650.0,Illinois
+"Sunbury, PA",PA,126467.0,Pennsylvania
+"Kennett, MO",MO,126333.0,Missouri
+"Forrest City, AR",AR,125400.0,Arkansas
+"Centralia, IL",IL,124633.0,Illinois
+"Bennettsville, SC",SC,123067.0,South Carolina
+"Pottsville, PA",PA,122617.0,Pennsylvania
+"Winfield, KS",KS,121600.0,Kansas
+"Lincoln, IL",IL,121217.0,Illinois
+"Marion, IN",IN,119633.0,Indiana
+"Greenville, MS",MS,117917.0,Mississippi
+"Indianola, MS",MS,117483.0,Mississippi
+"Galesburg, IL",IL,117467.0,"Illinois "
+"Coffeyville, KS",KS,117083.0,Kansas
+"St. Marys, PA",PA,115629.0,Pennsylvania
+"Hereford, TX",TX,115000.0,"Texas "
+"Mount Gay, WV",WV,109917.0,"West Virginia "
+"Danville, IL",IL,109100.0,Illinois
+"Vernon, TX",TX,101333.0,Texas
+"Helena, AR",AR,100117.0,Arkansas
+"Johnstown, PA",PA,97467.0,Pennsylvania
+"Parsons, KS",KS,90233.0,Kansas
+"Selma, AL",AL,85417.0,Alabama
+"Macomb, IL",IL,80967.0,"Illinois "
+"Clewiston, FL",FL,68333.0,Florida
