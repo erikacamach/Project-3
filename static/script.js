@@ -2,19 +2,19 @@
 var medianBar;
 var nationalMedianHouseSize;
 
+// Connecting html overview link and flask api from python
 d3.select('#overviewPage').on('click', function () {    
   displayOverview('/api/v1.0/overview', '#overviewdiv');
 });
 
+// Function to create and display overview of house price and income bar chart
 function displayOverview(endpoint, jsonElement) {
   d3.json(endpoint)
     .then(function (data) {
       
-//console.log(data)
 let states = Object.values(data.State);
 let medianHousePrice = Object.values(data["Median Home Price"]);
 let medianIncome = Object.values(data["Median Household Income"]);
-//console.log(medianHousePrice,medianIncome);
  
 let trace_HousePrice = {
   x: states,
@@ -54,10 +54,6 @@ Plotly.newPlot('OverviewChart', highestChartData, highestChart_layout);
     });
 }
 
-
-
-//      ################################################              //
-
 // Event listener for getting state details
 d3.select('#get-states').on('click', function () {    
   fetchDataAndDisplay('/api/v1.0/states_details', '#states-json');
@@ -91,7 +87,7 @@ function fetchDataAndDisplay(endpoint, jsonElement) {
         // Function updateChart is called when the selection in state dropdown is changed
         d3.select("#states-list").on("change", updateCharts);
 
-        // // Updates the chart based on the selected State
+        // Updates the chart based on the selected State
         function updateCharts()
         {
           let dropdownMenu = d3.select("select");
@@ -100,8 +96,8 @@ function fetchDataAndDisplay(endpoint, jsonElement) {
           let selState = data.State[selectedStateIndex]
           let stateMedianIncome = data["Median Household Income"][selectedStateIndex];
           let stateMedianHousePrice = data["Median Home Price"][selectedStateIndex];
-          //console.log(selState);
-          // Update the values for the Chart based on the selected state
+          
+          // Update the values for the Chart.js based on the selected state
            medianBar.data.labels[1] = selState
            medianBar.data.datasets[0].data[1] = stateMedianIncome;
            medianBar.data.datasets[1].data[1] = stateMedianHousePrice;
@@ -121,7 +117,7 @@ function fetchDataAndDisplay(endpoint, jsonElement) {
   }
   
  
-// Initial creation of the Bar chart
+// Initial creation of the Bar charts
 function createCharts(fullData)
 {
    //Calculate the National Median of the 3 columns
