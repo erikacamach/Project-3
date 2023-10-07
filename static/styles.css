@@ -5,13 +5,18 @@
     height:200;
 };
 
-#charts_by_state
-{
-    width:500;
-    height:500;
+canvas{
+
+    width:200px !important;
+    height:200px !important;
+  
+  }
+#barChart{
+    width:200px;
+    height:200px;
 };
 
-#barChart{
-    width:300;
-    height:300;
-};
+#sqftChart{
+    width:300px;
+    height:300px;
+}
