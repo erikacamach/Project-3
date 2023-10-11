@@ -1,11 +1,11 @@
 from sqlalchemy import create_engine, func
 from flask import Flask, jsonify, request, render_template_string
 from flask_sqlalchemy import SQLAlchemy
-
+#Create flask
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///C:/Users/kevin/Documents/proj3/resources/project3.sqlite'
 db = SQLAlchemy(app)
-
+#Grabs data from sql and converts to dict
 class HouseData(db.Model):
     Id = db.Column("Id", db.Integer, primary_key=True)
     State = db.Column("State", db.String)
@@ -38,7 +38,7 @@ class CitiesData(db.Model):
             '3 PEOPLE': self.three_people,
             '4 PEOPLE': self.four_people
         }
-
+#Homepage
 @app.route('/')
 def home():
 
