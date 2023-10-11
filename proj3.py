@@ -41,8 +41,7 @@ class CitiesData(db.Model):
 
 @app.route('/')
 def home():
-    # You could query your database to get the list of states for both house and income data.
-    # For simplicity, I'm using hardcoded lists here:
+
     house_states = db.session.query(HouseData.State).distinct().all()
     income_states = db.session.query(CitiesData.STATE).distinct().all()
 
