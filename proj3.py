@@ -1,9 +1,9 @@
-from sqlalchemy import func
-from flask import Flask, jsonify, request
+from sqlalchemy import create_engine, func
+from flask import Flask, jsonify, request, render_template_string
 from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:Resources\project3.sqlite'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///C:/Users/kevin/Documents/proj3/resources/project3.sqlite'
 db = SQLAlchemy(app)
 
 class HouseData(db.Model):
@@ -41,8 +41,24 @@ class CitiesData(db.Model):
 
 @app.route('/')
 def home():
-    return "Project 3"
+    # You could query your database to get the list of states for both house and income data.
+    # For simplicity, I'm using hardcoded lists here:
+    house_states = db.session.query(HouseData.State).distinct().all()
+    income_states = db.session.query(CitiesData.STATE).distinct().all()
 
+    html = """
+    <h1>Project 3</h1>
+    <h2>House Data</h2>
+    {% for state in house_states %}
+        <a href='/house_data/{{ state[0] }}'>{{ state[0] }}</a><br>
+    {% endfor %}
+    <h2>Income Data</h2>
+    {% for state in income_states %}
+        <a href='/income/{{ state[0] }}'>{{ state[0] }}</a><br>
+    {% endfor %}
+    """
+
+    return render_template_string(html, house_states=house_states, income_states=income_states)
 
 @app.route('/house_data/<state>', methods=['GET'])
 def get_house_data(state):
@@ -52,14 +68,11 @@ def get_house_data(state):
 
     return jsonify(house.to_dict())
 
-
-
 @app.route('/income/<state>', methods=['GET'])
 def get_income_by_state(state):
-    income = CitiesData.query.filter_by(STATE=state.upper()).first() 
+    income = CitiesData.query.filter(func.lower(CitiesData.STATE) == state.lower()).first() 
     if not income:
         return jsonify({'error': 'State not found'}), 404
-
     return jsonify(income.to_dict())
 
 if __name__ == '__main__':
