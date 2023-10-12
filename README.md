@@ -1,5 +1,28 @@
 # Project-3
 
+
+### Our Goal 
+
+Assisting  individuals in making informed decisions regarding their future home purchase after completing their education. 
+Average annual salary by state based on household size 
+The average cost of homes per square foot
+General averages of homes by state and major cities
+Individuals will be equipped with the necessary knowledge to assess the financial possibilities and preferences for their future home, aligning their choices with their personal and financial goals.
+
+
+![cover](https://github.com/erikacamach/Project-3/assets/134974849/889875bd-2bbd-4a2a-ab9e-99ff178e7dee)
+
+
+Creating a database on SQLite
+
+![sqlite](https://github.com/erikacamach/Project-3/assets/134974849/8cfad75e-6db8-4e71-8e40-bf8f27d4f4ea)
+
+![merge1](https://github.com/erikacamach/Project-3/assets/134974849/8527d7f9-230e-4a0c-8f4d-c8a8d15e46e6)
+
+![merge2](https://github.com/erikacamach/Project-3/assets/134974849/775c37c2-e5cb-4f24-af7f-17110b77085c)
+
+
+
 ### Analysis of Median House Price data across the 50 states in USA:
 
 - app.py is executed to create the following graphs. Reading the data from sqlite database and sending it to Flask API are handled in this python file.
@@ -37,3 +60,7 @@ When "2023 house price details by state" link is clicked, a dropdown with the li
 analysis.ipynb - has the data analysis regarding the states with highest and lowest median house price.
 
 ![Alt text](image-3.png)        ![Alt text](image-4.png)
+
+Data source : Rocket Homes [https://www.rockethomes.com/blog/housing-market/median-home-price-by-state]
+
+
