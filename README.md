@@ -37,3 +37,7 @@ When "2023 house price details by state" link is clicked, a dropdown with the li
 analysis.ipynb - has the data analysis regarding the states with highest and lowest median house price.
 
 ![Alt text](image-3.png)        ![Alt text](image-4.png)
+
+Data source : Rocket Homes [https://www.rockethomes.com/blog/housing-market/median-home-price-by-state]
+
+
